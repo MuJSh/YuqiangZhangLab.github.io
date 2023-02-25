@@ -9,7 +9,7 @@ img { margin-bottom: 24px;
 }
 
 .navbar-default{
-background-color: #FFEFD5 !important;
+background-color: #FFEFD5 !important!topcolor;
 border-color: #FFEFD5 !important;
 border-bottom-width: thin;
 margin-left:0px;
@@ -18,7 +18,7 @@ margin-bottom:0px;
 }
 
 .navbar-default .navbar-brand {
-    color: #FDFEFE;
+    color: #FDFEFE!topwordcolor;
 }
 
 .navbar-brand{
@@ -50,8 +50,8 @@ margin-bottom:0px;
 
 .well {
     margin-top: 0px;
-    background-color: #993333 !important;
-    border-color: #993333 !important;   
+    background-color: #e6ffe6 !important;
+    border-color: #e6ffe6 !important;   
 }
 .wellpub {
   height: 550px;
