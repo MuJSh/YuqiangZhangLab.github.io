@@ -37,12 +37,20 @@ Interactions between climate change, air pollution and human health
 #### <b>HONORS AND AWARDS (PARTIAL)</b>
 
 2022 <b>Early Career Geoscience Faculty Workshop: Teaching, Research and Managing Your</b> Careeracceptance  
-One article (Shindell et al., 2020) listed as <b>“ Top Cited Article 2020 - 2021”</b>  
-One article (Parson et al., 2021) listed as a <b>“Editors’ Highlights of Social Science”</b> from Nature Communication  
+One article (Shindell et al., 2020) listed as <b>"Top Cited Article 2020 - 2021"</b>  
+One article (Parson et al., 2021) listed as a <b>"Editors’ Highlights of Social Science"</b> from Nature Communication  
 One article (Miyazaki et al., 2020) listed as <b>*Top 10% most downloaded in 2020 for the journal</b>  
-One article (Silva et al., 2013) listed as <b>“Editorial Highlights in 2013”</b> and <b>“Editorial Highlights of 2006 - 2016”</b> in journal Environmental Research Letter  
+One article (Silva et al., 2013) listed as <b>"Editorial Highlights in 2013"</b> and <b>"Editorial Highlights of 2006 - 2016"</b> in journal Environmental Research Letter  
 2020 IOP Publishing Environmental Research Letter <b>Outstanding Reviewer Award for 2019</b>  
-2020 EGU Roland Schlich TravelA ward  
+2020 EGU Roland Schlich Travel Award  
+2019 NCAR FASCINATE Workshop Travel Award   
+2019 AAAS member  
+2018 “Outstanding Reviewer” for journal Atmospheric Environment recognized in June 2018   
+2017 Oak Ridge Institute for Science and Education Fellowship (Oak Ridge Associated Universities)   
+2016 Oak Ridge Institute for Science and Education Fellowship (Oak Ridge Associated Universities)   
+2015 GPSF Travel Grant   
+2015 Certificate for Writing from the Readers’ Perspective by George Gopen   
+2014 Koch Travel Award   
 
 #### <b>COMMUNITY SERVICES</b>
 
@@ -54,6 +62,17 @@ Panel review for 2020 NASA Postdoctoral program
 Proposal & Panel review for NASA FINESST 2019  
 Primary & Co-convener for 2020 AGU Fall Meeting “ Global Environmental Change ” and “ Atmospheric Sciences ” session  
 Expert Reviewer for the Second Order Draft (SOD) of the Working Group I (WGI) contribution to th e Sixth Assessment Report (AR6), 2020  
+Co - host (2 in total) the NOAA’s 44 th Climate Diagnostics and Prediction Workshop in 2019   
+Executive committee for the International Conference on Air Benefits and Cost and Attainment Assessment, 2018 - 2021   
+Organizing committee for the 5 th Chinese Environmental Scholars Forum in Duke University, NC, May 19 - 20, 2018   
+Special issue editor for Atmosphere “Air Quality Management” till May, 2021   
+Session chair for the NOAA’s 44 th Climate Diagnostics and Prediction Workshop in 2019  
+Session chair for the 7 th International Conference on Air Benefits and Cost and Attainment Assessment, Zhejiang, China, May 20 - 22 2019   
+Reviewer board for the journal Atmosphere since 2019   
+Reviewer for 2018 AGU Fall Meeting Berkner Travel Fellowship   
+Reviewer for 2018 AGU Fall Meeting David S. Miller Young Scientist Scholarship reviewers   
+Reviewer for 2018 AGU Fall Meeting Student Travel Grant   
+Judge for 2017 AGU Fall Meeting Outstanding Student Paper Award (OSPA)  
   
 </div>
 </div>
