@@ -36,13 +36,13 @@ Interactions between climate change, air pollution and human health
 
 #### <b>HONORS AND AWARDS (PARTIAL)</b>
 
-&emsp;&emsp;2022 <b>Early Career Geoscience Faculty Workshop: Teaching, Research and <br>Managing Your</b> Careeracceptance  
-One article (Shindell et al., 2020) listed as <b>“ Top Cited Article 2020 - 2021”</b>  
-One article (Parson et al., 2021) listed as a <b>“Editors’ Highlights of Social Science”</b> from Nature Communication  
-One article (Miyazaki et al., 2020) listed as <b>*Top 10% most downloaded in 2020 for the journal</b>  
-One article (Silva et al., 2013) listed as <b>“Editorial Highlights in 2013”</b> and <b>“Editorial Highlights of 2006 - 2016”</b> in journal Environmental Research Letter  
-&emsp;&emsp;2020 IOP Publishing Environmental Research Letter <b>Outstanding Reviewer Award for 2019</b>  
-&emsp;&emsp;2020 EGU Roland Schlich TravelA ward  
+2022 <b>Early Career Geoscience Faculty Workshop: Teaching, Research and <br>Managing Your</b> Careeracceptance  
+&emsp;&emsp;One article (Shindell et al., 2020) listed as <b>“ Top Cited Article 2020 - 2021”</b>  
+&emsp;&emsp;One article (Parson et al., 2021) listed as a <b>“Editors’ Highlights of Social Science”</b> from Nature Communication  
+&emsp;&emsp;One article (Miyazaki et al., 2020) listed as <b>*Top 10% most downloaded in 2020 for the journal</b>  
+&emsp;&emsp;One article (Silva et al., 2013) listed as <b>“Editorial Highlights in 2013”</b> and <b>“Editorial Highlights of 2006 - 2016”</b> in journal Environmental Research Letter  
+2020 IOP Publishing Environmental Research Letter <b>Outstanding Reviewer Award for 2019</b>  
+2020 EGU Roland Schlich TravelA ward  
 
 </div>
 
@@ -71,10 +71,10 @@ One article (Silva et al., 2013) listed as <b>“Editorial Highlights in 2013”
 #### <b>部分荣誉和奖项</b>
 
 2022 <b>Early Career Geoscience Faculty Workshop: Teaching, Research and Managing Your Career</b> acceptance  
-Shindell et al., 2020被列为<b>“2020 - 2021年被引用最多的文章”</b>   
-Parson et al., 2021被Nature Communication列为<b>“Editors’ Highlights of Social Science”</b>    
-Miyazaki et al., 2020被列为<b>“2020年期刊下载次数前十”</b>    
-Silva et al., 2013被Environmental Research Letter列为<b>“2013年亮点文章”和“2006 - 2016年亮点文章”</b>   
+&emsp;&emsp;Shindell et al., 2020被列为<b>“2020 - 2021年被引用最多的文章”</b>   
+&emsp;&emsp;Parson et al., 2021被Nature Communication列为<b>“Editors’ Highlights of Social Science”</b>    
+&emsp;&emsp;Miyazaki et al., 2020被列为<b>“2020年期刊下载次数前十”</b>    
+&emsp;&emsp;Silva et al., 2013被Environmental Research Letter列为<b>“2013年亮点文章”和“2006 - 2016年亮点文章”</b>   
 2020 IOP Publishing Environmental Research Letter <b>“2019年杰出审稿人”</b>  
 2020 EGU Roland Schlich 旅行奖  
 
