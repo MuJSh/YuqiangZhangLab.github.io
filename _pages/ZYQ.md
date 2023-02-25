@@ -49,6 +49,7 @@ One article (Silva et al., 2013) listed as <b>“Editorial Highlights in 2013”
 <div class="col-sm-5 clearfix">
 
 ####  <b>研究领域</b>
+
 大气化学  
 机器学习  
 大数据  
@@ -67,14 +68,14 @@ One article (Silva et al., 2013) listed as <b>“Editorial Highlights in 2013”
 2011.07 硕士 环境科学与工程 清华大学  
 2008.07 学士 环境科学与工程 山东大学 
 
-#### <b>部分所获荣誉</b>
+#### <b>部分荣誉和奖项</b>
 
 2022 <b>Early Career Geoscience Faculty Workshop: Teaching, Research and Managing Your Career</b> acceptance  
-一篇文章被列为<b>“2020 - 2021年被引用最多的文章”</b> (Shindell et al., 2020)  
-一篇文章被Nature Communication列为<b>“Editors’ Highlights of Social Science”</b> (Parson et al., 2021)   
-一篇文章被列为<b>“2020年期刊下载次数前十”</b> (Miyazaki et al., 2020)   
-一篇文章被Environmental Research Letter列为<b>“2013年亮点文章”和“2006 - 2016年亮点文章”</b> (Silva et al., 2013)  
-2020 IOP Publishing Environmental Research Letter <b>2019年杰出审稿人</b>  
+Shindell et al., 2020被列为<b>“2020 - 2021年被引用最多的文章”</b>   
+Parson et al., 2021被Nature Communication列为<b>“Editors’ Highlights of Social Science”</b>    
+Miyazaki et al., 2020被列为<b>“2020年期刊下载次数前十”</b>    
+Silva et al., 2013被Environmental Research Letter列为<b>“2013年亮点文章”和“2006 - 2016年亮点文章”</b>   
+2020 IOP Publishing Environmental Research Letter <b>“2019年杰出审稿人”</b>  
 2020 EGU Roland Schlich 旅行奖  
 
 #### <b>学术兼职</b>
