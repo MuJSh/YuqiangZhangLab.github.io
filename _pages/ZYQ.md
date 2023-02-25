@@ -86,7 +86,11 @@ See a full list my publications at [Google Scholar](https://scholar.google.com/c
 
 <b>Corresponding author (*) | 通讯作者
 
-<b>2022</b>
+<font color=#003300><b>2023</b></font>
+
+Long, Y., Wu, Y., Xie, Y., Huang, L., Wang, W., Liu, X., Zhou, Z., <b>Zhang, Y.</b>, Hanaoka, T., Ju, Y., Li, Y., and Chen, B.: PM2.5 and ozone pollution-related health challenges in Japan with regards to climate change, <u><em>Glob. Environ. Chang.</em></u>, 79, 102640, https://doi.org/10.1016/j.gloenvcha.2023.102640, 2023
+
+<font color=#003300><b>2022</b></font>
 
 <b>43</b> Wang, X., Fu, T.-M., Zhang, L., Lu, X., Liu, X., Amnuaylojaroen, T., Latif, M. T., Ma, Y., Zhang, L., Feng, X., <b>Zhu, L.</b>, Shen, H., Yang, X.: Rapidly changing emissions drove substantial surface and tropospheric ozone increases over Southeast Asia, <u><em>Geophysical Research Letters</em></u>, 2022. 
 
