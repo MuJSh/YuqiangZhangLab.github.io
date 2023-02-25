@@ -36,7 +36,7 @@ Interactions between climate change, air pollution and human health
 
 #### <b>SLECTED HONORS</b>
 
-2022 Early Career Geoscience Faculty Workshop: Teaching, Research and Managing Your Careeracceptance  
+2022 <b>Early Career Geoscience Faculty Workshop: Teaching, Research and Managing Your Careeracceptance</b>  
 One article (Shindell et al., 2020) listed as “ Top Cited Article 2020 - 2021”  
 One article ( Parson et al., 2021 ) listed as a “ Editors’ Highlights of Social Science ” from Nature Communication  
 One article ( Miyazaki et al., 2020 ) listed as * Top 10% most downloaded in 2020 for the journal  
