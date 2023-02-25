@@ -90,7 +90,7 @@ See a full list my publications at [Google Scholar](https://scholar.google.com/c
 
 Long, Y., Wu, Y., Xie, Y., Huang, L., Wang, W., Liu, X., Zhou, Z., <b>Zhang, Y.</b>, Hanaoka, T., Ju, Y., Li, Y., and Chen, B.: PM2.5 and ozone pollution-related health challenges in Japan with regards to climate change, <u><em>Glob. Environ. Chang.</em></u>, 79, 102640, https://doi.org/10.1016/j.gloenvcha.2023.102640, 2023
 
-<font color=#003300><b>2022</b></font>
+<b><font color=DarkOliveGreen>2022</font></b>
 
 <b>43</b> Wang, X., Fu, T.-M., Zhang, L., Lu, X., Liu, X., Amnuaylojaroen, T., Latif, M. T., Ma, Y., Zhang, L., Feng, X., <b>Zhu, L.</b>, Shen, H., Yang, X.: Rapidly changing emissions drove substantial surface and tropospheric ozone increases over Southeast Asia, <u><em>Geophysical Research Letters</em></u>, 2022. 
 
@@ -180,9 +180,9 @@ Long, Y., Wu, Y., Xie, Y., Huang, L., Wang, W., Liu, X., Zhou, Z., <b>Zhang, Y.<
 
 <b>3</b> <b>Zhu, L. </b>, Huang, X., Shi, H., Cai, X. H., and Song, Y.: Transport pathways and potential sources of PM10 in Beijing, <u><em>Atmospheric Environment</em></u>, 2011.
 
-<b>2</b> Song, Y., Chang, D., Liu, B., Miao, W., <b>Zhu, L.</b>, and Zhang, Y.: A new emission inventory for nonagricultural open fires in Asia from 2000 to 2009, <u><em>Environmental Research Letters</em></u>, 2010.
+<b>2</b> Y. X. Wang., J. M. Hao., M. B. Mcelroy., J. William. Munger., Ma H., C. P. Nielsen and Zhang Y., Year round measurements of O<sub>3</sub> and CO at a rural site near Beijing: variations in their correlations, <em><u>Tellus</em></u>, 62B, 228–241, https://doi.org/10.1111/j.1600-0889.2010.00464.x, 2010.
 
-<b>1</b> Wang, B., <b>Zhu, L.</b>, Gong, Z., Wang, R., and Tao, S.: Introduction to the methods of parameter estimation for environmental monitoring data set with truncated data below a detection limit, <u><em>Acta Science Circumstantiae</em></u>, 2009.
+<b>1</b> Wang, Y. X., Zhang Y., and J. M. Hao: Review on the applications of Tropospheric Emissions Spectrometer to air quality research: perspectives for China, <u><em>Front. Environ. Sci. Engin. China</em></u>, 4(1), 12-19, https://doi.org/10.1007/s11783-010-0012-9, 2010.
 
 </div>
 </div>
