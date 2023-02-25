@@ -1,5 +1,5 @@
 ---
-title: "CHANGE Group | 张玉强课题组"
+title: "CHANGE Group | 张玉强教授课题组"
 layout: homelay
 excerpt: "Climate Health and Air quality for Next GEneration Group at SDU."
 sitemap: false
