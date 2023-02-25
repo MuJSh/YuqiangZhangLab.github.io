@@ -12,7 +12,7 @@ permalink: /ZYQ/
 
 <div class="row">
 
-<div class="col-sm-7 clearfix">
+<div class="col-sm-12 clearfix">
 
 #### <b>RESEARCH AREAS</b>  
 
