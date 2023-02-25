@@ -170,19 +170,19 @@ Long, Y., Wu, Y., Xie, Y., Huang, L., Wang, W., Liu, X., Zhou, Z., <b>Zhang, Y.<
 
 <b>8</b> Marais, E. A., Jacob, D. J., Jimenez, J. L., Campuzano-Jost, P., Day, D. A., Hu, W., Krechmer, J., <b>Zhu, L.</b>, Kim, P. S., Miller, C. C., Fisher, J. A., Travis, K., Yu, K., Hanisco, T. F., Wolfe, G. M., Arkinson, H. L., Pye, H. O. T., Froyd, K. D., Liao, J., and McNeill, V. F.: Aqueous-phase mechanism for secondary organic aerosol formation from isoprene: application to the southeast United States and co-benefit of SO2 emission controls, <u><em>Atmospheric Chemistry and Physics</em></u>, 2016. 
 
-<b>7</b> Kim, P. S., Jacob, D. J., Fisher, J. A., Travis, K., Yu, K., <b>Zhu, L.</b>, Yantosca, R. M., Sulprizio, M. P., Jimenez, J. L., Campuzano-Jost, P., Froyd, K. D., Liao, J., Hair, J. W., Fenn, M. A., Butler, C. F., Wagner, N. L., Gordon, T. D., Welti, A., Wennberg, P. O., Crounse, J. D., St. Clair, J. M., Teng, A. P., Millet, D. B., Schwarz, J. P., Markovic, M. Z., and Perring, A. E.: Sources, seasonality, and trends of southeast US aerosol: an integrated analysis of surface, aircraft, and satellite observations with the GEOS-Chem chemical transport model, <u><em>Atmospheric Chemistry and Physics</em></u>, 2015. 
+<b>7</b> Zhang Y., Cooper O., Gaudel A., Thompson A., Nédélec P., Ogino S., and West J.: Tropospheric ozone change from 1980 to 2010 dominated by equatorward redistribution of emissions, Nature Geoscience,  https://www.nature.com/articles/ngeo2827,  2016. 
 
-<b>6</b> <b>Zhu, L. *</b>, Jacob, D. J., Mickley, L. J., Marais, E. A., Cohan, D. S., Yoshida, Y., Duncan, B. N., González Abad, G., and Chance, K. V.: Anthropogenic emissions of highly reactive volatile organic compounds in eastern Texas inferred from oversampling of satellite (OMI) measurements of HCHO columns, <u><em>Environmental Research Letters</em></u>, 2014.
+<b>6</b> Zhang Y., Bowden J., Adelman Z., Naik V., Horowitz L., Smith S., West J.: Co-benefits of global and regional greenhouse gas mitigation on U.S. air quality in 2050, Atmos. Chem. Phys. https://doi.org/10.5194/acp-16-9533-2016, 2016.
 
-<b>5</b> Li, M., Huang, X., <b>Zhu, L.</b>, Li, J., Song, Y., Cai, X., and Xie S.: Analysis of the transport pathways and potential sources of PM10 in Shanghai based on three methods, <u><em>Science of the Total Environment</em></u>, 2012.
+<b>5</b> West J., Smith S., Silva R., Naik V., Zhang Y., Adelman Z., Fry M., Anenberg S.,Horowitz L., and Lamarque J.: Co-benefits of global greenhouse gas mitigation for future air quality and human health, Nat. Clim. Chang., 3, 885-889, https://doi.org/10.1038/nclimate2009, 2013.
 
-<b>4</b> Huang, X., Li, M., Friedli, H. R. Song, Y., Chang, D., and <b>Zhu, L.</b>: Mercury Emissions from Biomass Burning in China, <u><em>Environmental Science & Technology</em></u>, 2011. 
+<b>4</b> Silva R., West J., Zhang Y., Anenberg C., Lamarque J., Shindell D., Bergmann D., Berntsen T., Cameron-Smith P., Collins W., Ghan S., Josse B., Nagashima T., Naik V., Plummer D., Rodriguez J., Szopa S., and Zeng G.: Global premature mortality due to anthropogenic outdoor air pollution and the contribution of past climate change, Environ. Res. Lett., 8, 034005,https://iopscience.iop.org/article/10.1088/1748-9326/8/3/034005, 2013. 
 
-<b>3</b> <b>Zhu, L. </b>, Huang, X., Shi, H., Cai, X. H., and Song, Y.: Transport pathways and potential sources of PM10 in Beijing, <u><em>Atmospheric Environment</em></u>, 2011.
+<b>3</b> Wang Y., Zhang Y., Hao J., and Luo M.: Seasonal and spatial variability of surface ozone over China: contributions from background and domestic pollution, Atmos. Chem. Phys., 11, 3511-3525, https://doi.org/10.5194/acp-11-3511-2011, 2011.
 
-<b>2</b> Y. X. Wang., J. M. Hao., M. B. Mcelroy., J. William. Munger., Ma H., C. P. Nielsen and Zhang Y., Year round measurements of O<sub>3</sub> and CO at a rural site near Beijing: variations in their correlations, <em><u>Tellus</em></u>, 62B, 228–241, https://doi.org/10.1111/j.1600-0889.2010.00464.x, 2010.
+<b>2</b> Wang Y., Hao J., Mcelroy B., Munger J., Ma H., Nielsen C., and <b>Zhang Y.</b>, Year round measurements of O<sub>3</sub> and CO at a rural site near Beijing: variations in their correlations, <em><u>Tellus</u></em>, 62B, 228–241, https://doi.org/10.1111/j.1600-0889.2010.00464.x, 2010.
 
-<b>1</b> Wang, Y. X., Zhang Y., and J. M. Hao: Review on the applications of Tropospheric Emissions Spectrometer to air quality research: perspectives for China, <u><em>Front. Environ. Sci. Engin. China</em></u>, 4(1), 12-19, https://doi.org/10.1007/s11783-010-0012-9, 2010.
+<b>1</b> WangY., Zhang Y., and Hao J.: Review on the applications of Tropospheric Emissions Spectrometer to air quality research: perspectives for China, <u><em>Front. Environ. Sci. Engin. China</em></u>, 4(1), 12-19, https://doi.org/10.1007/s11783-010-0012-9, 2010.
 
 </div>
 </div>
