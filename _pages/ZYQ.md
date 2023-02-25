@@ -36,21 +36,21 @@ Interactions between climate change, air pollution and human health
 
 #### <b>SLECTED HONORS</b>
 
-2022 Early Career Geoscience Faculty Workshop: Teaching, Research and Managing Your Careeracceptance 
-One article (Shindell et al., 2020) listed as “ Top Cited Article 2020 - 2021” 
-One article ( Parson et al., 2021 ) listed as a “ Editors’ Highlights of Social Science ” from Nature Communication 
-One article ( Miyazaki et al., 2020 ) listed as * Top 10% most downloaded in 2020 for the journal 
-One article (Silva et al., 2013) listed as “ Editorial Highlights in 2013 ” and “ Editorial Highlights of 2006 - 2016 ” in journal Environmental Research Letter 
-2020 IOP Publishing Environmental Research Letter Outstandin g Reviewer Award for 2019 
-2020 EGU Roland Schlich T ravel A ward 
-2019 NCAR FASCINATE W orkshop Travel Award 
-2019 AAAS member 
-2018 “Outstanding Reviewer” for journal Atmospheric Environment recognized in June 2018
-2017 Oak Ridge Institute for Science and Education Fellowship (Oak Ridge Associated Universities) 
-2016 Oak Ridge Institute for Science and Education Fellowship (Oak Ridge Associated Universities) 
-2015 GPSF Travel Grant 
-2015 Certificate for Writing from the Readers’ Perspective by George Gopen 
-2014 Koch Travel Award 
+2022 Early Career Geoscience Faculty Workshop: Teaching, Research and Managing Your Careeracceptance  
+One article (Shindell et al., 2020) listed as “ Top Cited Article 2020 - 2021”  
+One article ( Parson et al., 2021 ) listed as a “ Editors’ Highlights of Social Science ” from Nature Communication  
+One article ( Miyazaki et al., 2020 ) listed as * Top 10% most downloaded in 2020 for the journal  
+One article (Silva et al., 2013) listed as “ Editorial Highlights in 2013 ” and “ Editorial Highlights of 2006 - 2016 ” in journal Environmental Research Letter  
+2020 IOP Publishing Environmental Research Letter Outstandin g Reviewer Award for 2019  
+2020 EGU Roland Schlich T ravel A ward  
+2019 NCAR FASCINATE W orkshop Travel Award  
+2019 AAAS member  
+2018 “Outstanding Reviewer” for journal Atmospheric Environment recognized in June 2018  
+2017 Oak Ridge Institute for Science and Education Fellowship (Oak Ridge Associated Universities)  
+2016 Oak Ridge Institute for Science and Education Fellowship (Oak Ridge Associated Universities)  
+2015 GPSF Travel Grant  
+2015 Certificate for Writing from the Readers’ Perspective by George Gopen  
+2014 Koch Travel Award  
 
 </div>
 
