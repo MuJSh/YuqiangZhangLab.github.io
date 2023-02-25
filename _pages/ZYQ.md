@@ -23,7 +23,7 @@ Interactions between climate change, air pollution and human health
 
 #### <b>PROFESSIONAL EXPERIENCE</b>
 
-2022.10–        Professor, Shandong University  
+2022.10–<em><em>Professor, Shandong University  
 2021.03–2022.07 Research Scientist, UNC Chapel Hill  
 2018.02–2021.02 Research Scientist, Duke University  
 2016.03–2018.02 Modeling Development and Application, U.S. EPA
