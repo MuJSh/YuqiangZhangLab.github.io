@@ -56,48 +56,6 @@ Primary & Co-convener for 2020 AGU Fall Meeting “ Global Environmental Change 
 Expert Reviewer for the Second Order Draft (SOD) of the Working Group I (WGI) contribution to th e Sixth Assessment Report (AR6), 2020  
   
 </div>
-
-<div class="col-sm-5 clearfix">
-
-####  <b>研究领域</b>
-
-大气化学  
-机器学习  
-大数据  
-空气污染、气候变化以及人类健康的相互作用
-
-#### <b>职业经历</b>
-
-2022.10–        教授 山东大学  
-2021.03–2022.07 研究员 美国北卡大学教堂山分校
-2018.02–2021.02 研究员 杜克大学  
-2016.03–2018.02 模型应用与开发 美国环保署 
-
-#### <b>教育背景</b>
-
-2016.01 博士 环境科学与工程 美国北卡大学教堂山分校  
-2011.07 硕士 环境科学与工程 清华大学  
-2008.07 学士 环境科学与工程 山东大学 
-
-#### <b>部分荣誉和奖项</b>
-
-2022 <b>Early Career Geoscience Faculty Workshop: Teaching, Research and Managing Your Career</b> acceptance  
-Shindell et al., 2020被列为<b>“2020 - 2021年被引用最多的文章”</b>   
-Parson et al., 2021被Nature Communication列为<b>“Editors’ Highlights of Social Science”</b>    
-Miyazaki et al., 2020被列为<b>“2020年期刊下载次数前十”</b>    
-Silva et al., 2013被Environmental Research Letter列为<b>“2013年亮点文章”和“2006 - 2016年亮点文章”</b>   
-2020 IOP Publishing Environmental Research Letter <b>“2019年杰出审稿人”</b>  
-2020 EGU Roland Schlich 旅行奖  
-
-#### <b>学术兼职</b>
-
-Frontier Frontiers in Environmental Science 专刊 （Atmosphere and Climate）特邀编辑  
-Atmosphere专刊（Air Quality Management）特邀编辑  
-Atmosphere专刊（Monitoring and Assessment of Air Pollution—Global Diversity in Sources and Impacts）特邀编辑  
-美国海洋和大气管理局（NOAA）项目评审专家  
-美国国家航空航天局博士研究生以及博士后奖学金评审专家  
-
-</div>
 </div>
 
 <div class="row">
