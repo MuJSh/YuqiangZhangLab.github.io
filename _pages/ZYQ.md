@@ -88,101 +88,87 @@ See a full list my publications at [Google Scholar](https://scholar.google.com/c
 
 <b><font color=DarkOliveGreen>2023</font></b>
 
-Long, Y., Wu, Y., Xie, Y., Huang, L., Wang, W., Liu, X., Zhou, Z., <b>Zhang, Y.</b>, Hanaoka, T., Ju, Y., Li, Y., and Chen, B.: PM2.5 and ozone pollution-related health challenges in Japan with regards to climate change, <u><em>Glob. Environ. Chang.</em></u>, 79, 102640, https://doi.org/10.1016/j.gloenvcha.2023.102640, 2023
+<b>37</b> Long Y., Wu Y., Xie Y., Huang L., Wang W., Liu X., Zhou Z., <b>Zhang Y.</b>, Hanaoka T., Ju Y., Li Y., and Chen B.: PM2.5 and ozone pollution-related health challenges in Japan with regards to climate change, <u><em>Glob. Environ. Chang.</em></u>, 79, 102640, https://doi.org/10.1016/j.gloenvcha.2023.102640, 2023
 
 <b><font color=DarkOliveGreen>2022</font></b>
 
-<b>43</b> Wang, X., Fu, T.-M., Zhang, L., Lu, X., Liu, X., Amnuaylojaroen, T., Latif, M. T., Ma, Y., Zhang, L., Feng, X., <b>Zhu, L.</b>, Shen, H., Yang, X.: Rapidly changing emissions drove substantial surface and tropospheric ozone increases over Southeast Asia, <u><em>Geophysical Research Letters</em></u>, 2022. 
+<b>36</b> He C.,  <b>Zhang Y</b>., Schneider A., Ma W., Kinney P., and Kan H.: The inequality labor loss risk from future urban warming and adaptation strategies, <em><u>Nat. Commun.</em></u>, 13(3847), https://www.nature.com/articles/s41467-022-31145-2, 2022.
 
-<b>42</b> Pu, D., <b>Zhu, L. *</b>, De Smedt, I., Li, X., Sun, W., Wang, D., Liu, S., Li, J., Shu, L., Chen, Y., Sun, S., Zuo, X., Fu, W., Xu, P., Yang, X., and Fu, T.-M.: Response of Anthropogenic Volatile Organic Compound Emissions to Urbanization in Asia Probed with TROPOMI and VIIRS Satellite Observations, <u><em>Geophysical Research Letters</em></u>, 2022.
+<b>35</b> Wang J., Xing J., Wang S., Mathur R., Wang J., <b>Zhang Y</b>., Liu C., Pleim J., Ding D., Chang X., Jiang J., Zhao P., Sahu S., Jin Y., Wong D., and Hao J.: The pathway of impacts of aerosol direct effects on secondary inorganic aerosol formation, <em><u>Atmos. Chem. Phys., 22, 5147–5156, https://doi.org/10.5194/acp-22-5147-2022, 2022. 
 
-<b>41</b> Souri, A. H., Johnson, M. S., Wolfe, G. M., Crawford, J. H., Fried, A., Wisthaler, A., Brune, W. H., Blake, D. R., Weinheimer, A. J., Verhoelst, T., Compernolle, S., Pinardi, G., Vigouroux, C., Langerock, B., Choi, S., Lamsal, L., <b>Zhu, L.</b>, Sun, S., Cohen, R. C., Min, K.-E., Cho, C., Philip, S., Liu, X., and Chance, K.: Characterization of Errors in Satellite-based HCHO/NO2 Tropospheric Column Ratios with Respect to Chemistry, Column to PBL Translation, Spatial Representation, and Retrieval Uncertainties, <u><em>Atmospheric Chemistry and Physics Discussions</em></u>, 2022. 
+<b>34</b> Wang Y., Xie M., Wu Y., Zhang X., Wang M., and <b>Zhang Y</b>.: Ozone-related Co-benefits of China's Climate mitigation Policy, <em><u>Resour. Conserv. Recycl., 182(106288), https://doi.org/10.1016/j.resconrec.2022.106288, 2022.
 
-<b>40</b> Long, X., Fu, T.-M., Yang, X., Tang, Y., Zheng, Y., <b>Zhu, L.</b>, Shen, H., Ye, J., Wang, C., Wang, T., and Li, B.: Efficient Atmospheric Transport of Microplastics over Asia and Adjacent Oceans, <u><em>Environmental Science & Technology</em></u>, 2022. 
+<b>33</b> Li D., Shindell D., Ding D., Lu X., Zhang L., and <b>Zhang Y*</b>.: Surface ozone impacts on major crop production in China from 2010 to 2017, <em><u>Atmos. Chem. Phys., 22, 2625–2638, https://doi.org/10.5194/acp-22-2625-2022, 2022.
 
-<b>39</b> Howlett, C., González Abad, G., Chan Miller, C., Nowlan, C. R., Ayazpour, Z., and <b>Zhu, L.</b>: The influence of snow cover on Ozone Monitor Instrument formaldehyde observations, <u><em>Atmósfera</em></u>, 2022. 
+<b>32</b> Huang S., Song S., Nielsen C., <b>Zhang Y</b>., Xiong J., Weschler L., Xie S., and Li J.: Residential building materials: An important source of ambient formaldehyde in mainland China, <em><u>Environ. Int., 158, 106909, https://doi.org/10.1016/j.envint.2021.106909, 2022.
+  
+<b><font color=DarkOliveGreen>2021</font></b>
 
-<b>38</b> Zhao, T., Mao, J., Simpson, W. R., De Smedt, I., <b>Zhu, L.</b>, Hanisco, T. F., Wolfe, G. M., St. Clair, J. M., González Abad, G., Nowlan, C. R., Barletta, B., Meinardi, S., and Blake, D. R.: Source and variability of formaldehyde (HCHO) at northern high latitude: an integrated satellite, aircraft, and model study, <u><em>Atmospheric Chemistry and Physics</em></u>, 2022. 
+<b>31</b> Wang X., Guo Y., Cai M., Qian Z., Zhang S., Zhang Z., Yang Y., Vaughn M., Aaron H., Wu F., <b>Zhang Y*</b>. and Lin, H.: Constituents of fine particulate matter and asthma in 6 low- and middle-income countries, <em><u>J. Allergy Clin. Immunol., https://doi.org/10.1016/j.jaci.2021.12.779, 2021.
 
-<b>37</b> Xu, P., Li, G., Houlton, B. Z., Ma, L., Ai, D., <b>Zhu, L.</b>, Luan, B., Zhai, S., Hu, S., Chen, A., and Zheng, Y.: Role of Organic and Conservation Agriculture in Ammonia Emissions and Crop Productivity in China, <u><em>Environmental Science & Technology</em></u>, 2022. 
+<b>30</b> <b>Zhang Y</b>., Zhao B., Jiang Y., Xing J., Sahu S., Zheng H., Ding D., Cao S., Han L., Yan C., Duan X., Hu J., Wang S., and Hao J.: Non-negligible contributions to human health from increased household air pollution exposure during the COVID-19 lockdown in China, <em><u>Environ. Int., 158, 106918, https://doi.org/10.1016/j.envint.2021.106918, 2021.
 
-<b>36</b> Shu, L., <b>Zhu, L. *</b>, Bak, J., Zoogman, P., Han, H., Long, X., Bai, B., Liu, S., Wang, D., Sun, W., Pu, D., Chen, Y., Li, X., Sun, S., Li, J., Yang, X., Fu, T.-M.: Improved Ozone Simulation in East Asia via Assimilating Observations from the First Geostationary Air-quality Monitoring Satellite: Insights from an Observing System Simulation Experiment, <u><em>Atmospheric Environment</em></u>, 2022.
+<b>29</b> <b>Zhang Y*</b>., Shindell D., Seltzer K., Shen L., Lamarque J., Zhang Q., Zheng B., Xing J., Jiang Z., and Zhang L.: Impacts of emission changes in China from 2010 to 2017 on domestic and intercontinental air quality and health effect, <em><u>Atmos. Chem. Phys., 21, 16051–16065, https://doi.org/10.5194/acp-21-16051-2021, 2021.
 
-<b>35</b> Zhai, J., Yang, X., Li, L., Bai, B., Liu, P., Huang, Y., Fu, T. M., <b>Zhu, L.</b>, Zeng, Z., Tao, S., Lu, X., Ye, X., Wang, X., Wang, L., and Chen, J.: Absorption Enhancement of Black Carbon Aerosols Constrained by Mixing-State Heterogeneity, <u><em>Environmental Science & Technology</em></u>, 2022. 
+<b>28</b> Shindell D., Ru M., <b>Zhang Y</b>., Seltzer K., Faluvegi G., Nazarenko L., Schmidt G., Parsons L., Challapalli A., Yang L., Glick A. The Temporal and Spatial Distribution of Health, Labor and Agriculture Benefits of Climate Change Mitigation in the US, <em><u>Proceedings of the National Academy of Sciences Nov 2021, 118 (46) e2104061118; https://doi.org/10.1073/pnas.2104061118, 2021.
 
-<b>2021</b>
+<b>27</b> Parsons L., Shindell D., Tigchelaar M., <b>Zhang Y</b>. and Spector J.: Increased Labor losses and decreased adaptation potential in a warmer world, <em><u>Nat. Commun., 12(7286), https://doi.org/10.1038/s41467-021-27328-y, 2021. 
 
-<b>34</b> Huang, G., Ponder, R., Bond, A., Brim, H., Temeng, A., Naeger, A., <b>Zhu, L.</b>: Impact of traffic reductions on the air quality during the COVID-19 lockdown in the Metro Atlanta Area, United States, <u><em>Aerosol and Air Quality Research</em></u>, 2021. 
+<b>26</b> Shindell D., Kuylenstierna J., Ravishankara A., Michalopoulou E., Höglund-Isaksson L., <b>Zhang Y</b>., et al.: United Nations Environment Programme and Climate and Clean Air Coalition: Global Methane Assessment: Benefits and Costs of Mitigating Methane Emissions, ISBN: 978-92-807-3854-4, 2021. 
 
-<b>33</b> Marais, E., Pandey, A., Van Damme, M., Clarisse, L., Coheur, P.-F., Shephard, M., Cady-Pereira, K., Misselbrook, T., <b>Zhu, L.</b>, Luo, G., and Yu, F.: UK ammonia emissions estimated with satellite observations and GEOS-Chem, <u><em>Journal of Geophysical Research-Atmospheres</em></u>, 2021.
+<b>25</b> Tang T., Shindell D., <b>Zhang Y</b>., Voulgarakis A., Lamarque J., Myhre G., Faluvegi G., Samset B., Andrews T., Olivié D., Takemura T., and Lee X.: Distinct surface response to black carbon aerosols, <em><u>Atmos. Chem. Phys., 21, 13797–13809, https://doi.org/10.5194/acp-21-13797-2021, 2021.
 
-<b>32</b> Zhai, S., Wang, X., McConnell, J. R., Geng, L., Cole-Dai, J., Sigl, M., Chellman, N., Sherwen, T., Pound, R., Fujita, K., Hattori, S., Moch, J., M., <b>Zhu, L.</b>, Evans, M., Legrand, M., Liu, P., Pasteris, D., Chan, Y.-C., Murray, L. T., Alexander, B.: Anthropogenic Impacts on Tropospheric Reactive Chlorine since the Preindustrial, <u><em>Geophysical Research Letters</em></u>, 2021.
+<b>24</b> Jiang Z., Shi H., Zhao B., Gu Y., Zhu Y., Miyazaki K., Lu X., <b>Zhang Y</b>., Bowman K., Sekiya T., and Liou K.: Modeling the impact of COVID-19 on air quality in southern California: implications for future control policies, <em><u>Atmos. Chem. Phys., 21, 8693–8708, https://doi.org/10.5194/acp-21-8693-2021, 2021.
 
-<b>31</b> Wang, X., Jacob, D. J., Downs, W., Zhai, S., <b>Zhu, L.</b>, Shah, V., Holmes, C. D., Sherwen, T., Alexander, B., Evans, M. J., Eastham, S. D., Neuman, J. A., Veres, P., Koenig, T. K., Volkamer, R., Huey, L. G., Bannan, T. J., Percival, C. J., Lee, B. H., and Thornton, J. A: Global tropospheric halogen (Cl, Br, I) chemistry and its impact on oxidants, <u><em>Atmospheric Chemistry and Physics</em></u>, 2021.
+<b>23</b> <b>Zhang Y*</b>., Shindell D.: Costs from labor losses due to extreme heat in the USA attributable to climate change. <em><u>Climatic Change 164, 35. https://doi.org/10.1007/s10584-021-03014-2, 2021.
 
-<b>30</b> Wang, X., Fu, T.-M., Zhang, L., Cao, H., Zhang, Q., Ma, H., Shen, L., Evans, M. J., Ivatt, P. D., Lu, X., Chen, Y., Zhang, L., Feng, X., Yang, X., <b>Zhu, L.</b>, Henze, D. K.: Sensitivities of Ozone Air Pollution in the Beijing-Tianjin-Hebei Area to Local and Upwind Precursor Emissions Using Adjoint Modeling, <u><em>Environmental Science & Technology</em></u>, 2021.
+<b><font color=DarkOliveGreen>2020</font></b>
+ 
+<b>22</b> <b>Zhang Y*</b>., West J., Emmons L., Flemming J., Jonson J., Lund M., Sekiya T., Sudo K., Gaudel A., Chang K., Nedelec P., and Thouret V.: Contributions of world regions to the global tropospheric ozone burden change from 1980 to 2010. <em><u>Geophysical Research Letters, 47, e2020GL089184. https://doi.org/10.1029/2020GL089184, 2020.
 
-<b>29</b> Sun, W., <b>Zhu, L. *</b>, De Smedt, I., Bai, B., Pu, D., Chen, Y., Shu, L., Wang, D., Fu, T.-M., Wang, X., and Yang, Y.: Global Significant Changes in Formaldehyde (HCHO) Columns Observed from Space at the Early Stage of the COVID-19 Pandemic, <u><em>Geophysical Research Letters</em></u>, 2021.
+<b>21</b> Liu S., Xing J., Westervelt D., Liu S., Ding D., Fiore A., Kinney P., <b>Zhang Y.</b>, He M., Zhang H., Sahu S., Zhang F., Zhao B., and Wang S.: Role of emission controls in reducing the 2050 climate change penalty for PM2.5 in China, <em><u>Science of Total Environment, https://doi.org/10.1016/j.scitotenv.2020.144338, 2020.
 
-<b>28</b> Li, Y., Fu, T.-M., Yu, J., Feng, X., Zhang, L., Chen, J., Boreddy, S., Kawamura, K., Fu, P., Yang, X., <b>Zhu, L.</b>, and Zeng, Z.: Impacts of Chemical Degradation on the Global Budget of Atmospheric Levoglucosan and Its Use As a Biomass Burning Tracer, <u><em>Environmental Science & Technology</em></u>, 2021.
+<b>20</b> Xing J., Lu X., Wang S., Wang T., Ding D., Yu S., Shindell D., OuY., Morawska L., Li S., Ren, L., <b>Zhang Y.</b>, Loughlin D., Hao J.: The quest for improved air quality may push China to continue its CO2 reduction beyond the Paris Commitment, <em><u>Proceedings of the National Academy of Sciences Nov 2020, 117 (47) 29535-29542; https://doi.org/10.1073/pnas.2013297117, 2020. 
 
-<b>2020</b>
+<b>19</b> Miyazaki K., Bowman K., Sekiya T., Jiang Z., Chen X., Eskes H., Ru M., <b>Zhang Y.</b>, Shindell D.: Air quality response in China linked to the 2019 novel coronavirus (COVID-19) lockdown. <em><u>Geophysical Research Letters, 47, e2020GL089252. https://doi.org/10.1029/2020GL089252, 2020.
 
-<b>27</b> Wang, X., Ye, X., Chen, J., Wang, X., Yang, X., Fu, T.-M., <b>Zhu, L.</b>, and Liu, C.: Direct links between hygroscopicity and mixing state of ambient aerosols: estimating particle hygroscopicity from their single-particle mass spectra, <u><em>Atmospheric Chemistry and Physics</em></u>, 2020. 
+<b>18</b> Xie Y., Wu Y., Li B., Xie M., Zhang H and <b>Zhang Y*</b>.: Health and economic benefit of China's greenhouse gas mitigation by 2050, <em><u>Environ. Res. Lett., https://doi.org/10.1088/1748-9326/aba97b, 2020. 
 
-<b>26</b> Souri, A. H., Nowlan, C. R., González Abad, G., <b>Zhu, L.</b>, Blake, D. R., Fried, A., Weinheimer, A. J., Wisthaler, A., Woo, J.-H., Zhang, Q., Chan Miller, C. E., Liu, X., and Chance, K.: An Inversion of NOx and NMVOC Emissions using Satellite Observations during the KORUS-AQ Campaign and Implications for Surface Ozone over East Asia, <u><em>Atmospheric Chemistry and Physics</em></u>, 2020. 
+<b>17</b> <b>Zhang Y*.</b>., Bash J., Roselle S., Mathur R., Hogrefe C., Shatas A., Repinsky A., Jacobs D.: Unexpected air quality deterioration from green infrastructure implementation in Kansas City, Science of the Total Environment, https://doi.org/10.1016/j.scitotenv.2020.140960, 2020.
 
-<b>25</b> <b>Zhu, L. *</b>, González Abad, G., Nowlan, C. R., Chan Miller, C., Chance, K., Apel, E. C., DiGangi, J. P., Fried, A., Hanisco, T. F., Hornbrook, R. S., Hu, L., Kaiser, J., Keutsch, F. N., Permar, W., St. Clair, J. M., and Wolfe, G. M.: Validation of satellite formaldehyde (HCHO) retrievals using observations from 12 aircraft campaigns, <u><em>Atmospheric Chemistry and Physics</em></u>, 2020.
+<b>16</b> Tang T., Shindell D., <b>Zhang Y.</b>, Voulgarakis A., Lamarque J., Myhre G., Stjern C., Faluvegi G., and Samset B.: Response of shortwave cloud radiative effect to greenhouse gases and aerosols and its impact on daily maximum temperature, <em><u>Atmos. Chem. Phys., 20, 8251–8266, https://doi.org/10.5194/acp-20-8251-2020, 2020.
 
-<b>24</b> Lu, X., Zhang, L., Wu, T., Long, M. S., Wang, J., Jacob, D. J., Zhang, F., Zhang, J., Eastham, S. D., Hu, L., <b>Zhu, L.</b>, Liu, X., and Wei, M.: Development of the global atmospheric general circulation-chemistry model BCC-GEOS-Chem v1.0: model description and evaluation, <u><em>Geoscientific Model Development</em></u>, 2020.
+<b>15</b> Shindell D., <b>Zhang Y.</b>, Scott M., Ru M., Stark K., & Ebi K.: The Effects of Heat Exposure on Human Mortality Throughout the US. <em><u>GeoHealth, 4, e2019GH000234. https://doi.org/10.1029/2019GH000234, 2020.
+  
+<b><font color=DarkOliveGreen>2010 - 2019</font></b>
 
-<b>Before Joining SUSTech</b>
+<b>14</b> Jin X., Fiore A., Civerolo K., Johnson S., Bi J., Liu Y., van Donkelaar A., Martin R., Al-Hamdan M., <b>Zhang Y.</b>, Insaf T., Kioumourtzoglou M., He M., Kinney P.: Quantifying health benefits of emission reduction over New York State using multiple PM2.5 products, <em><u>Environ. Res. Lett., https://doi.org/10.1088/1748-9326/ab2dcb, 2019.
 
-<b>23</b> K. Chance, X. Liu, C. Chan Miller, G.González Abad, G. Huang, C. Nowlan, A. Souri, R. Suleiman, K. Sun, H. Wang, <b>L. Zhu</b>, P. Zoogman, J. Al-Saadi, J.-C. Antuña-Marrero, J. Carr, R. Chatfield, M. Chin, R. Cohen, D. Edwards, J. Fishman, D. Flittner, J. Geddes, M. Grutter, J.R. Herman, D.J. Jacob, S. Janz J. Joiner, J. Kim, N.A. Krotkov, B. Lefer, R.V. Martin, O.L. Mayol-Bracero, A. Naeger, M. Newchurch, G.G. Pfister, K. Pickering, R.B. Pierce, C. Rivera Cárdenas, A. Saiz-Lopez, W. Simpson, E. Spinei, R.J.D. Spurr, J.J. Szykman, O. Torres, and J. Wang: TEMPO Green Paper; Chemistry, physics, and meteorology experiments with the Tropospheric Emissions: Monitoring of Pollution instrument, <u><em>Proc. SPIE 11151, Sensors, Systems, and Next-Generation Satellites XXIII</em></u>, 111510B (10 October 2019), 2019.
+<b>13</b> Wu Z., <b>Zhang Y.</b>, Zhang L., Huang M., Zhong L., Chen D., Wang X.: Trends of outdoor air pollution and the impact on premature mortality in the Pearl River Delta region of southern China during 2006–2015. <em><u>Sci. Total Environ., 690, 248-260, https://doi.org/10.1016/j.scitotenv.2019.06.401, 2019.
 
-<b>22</b> <b>Zhu, L. *</b>, Jacob, D. J., Eastham, S. D., Sulprizio, M. P., Wang, X., Sherwen, T., Evans, M. J., Chen, Q., Alexander, B., Koenig, T. K., Volkamer, R., Huey, L. G., Le Breton, M., Bannan, T. J., and Percival, C. J.: Effect of sea salt aerosol on tropospheric bromine chemistry, <u><em>Atmospheric Chemistry and Physics</em></u>, 2019.
+<b>12</b> <b>Zhang Y.</b>, Kristen M., Jesse O., Donna B., Robin L., and Joseph P.: A measurement-model fusion approach for developing improved wet deposition maps and trends, <em><u>J. Geophys. Res. Atmos, https://doi.org/10.1029/2018JD029051, 2019. 
 
-<b>21</b> Shen, L., Jacob, D. J., <b>Zhu, L.</b>, Zhang, Q., Zheng, B., Sulprizio, M. P., Li, K., Smedt, I. D., Abad, G. G., Cao, H., Fu, T.-M., and Liao, H.: The 2005–2016 Trends of Formaldehyde Columns Over China Observed by Satellites: Increasing Anthropogenic Emissions of Volatile Organic Compounds and Decreasing Agricultural Fire Emissions, <u><em>Geophysical Research Letters</em></u>, 2019. 
+<b>11</b> <b>Zhang Y*.</b>., West J., Mathur R., Xing J., Hogrefe C., Roselle S., Bash J., Pleim J., Gan C., and Wong D.: Long-term trends in the PM<sub>2.5</sub>- and O<sub>3</sub>-related mortality burdens in the United States under emission reductions from 1990 to 2010, <em><u>Atmos. Chem. Phys., https://doi.org/10.5194/acp-18-15003-2018, 2018.
 
-<b>20</b> Zhang, Y., Gautam, R., Zavala‐Araiza, D., Jacob, D. J., Zhang, R., <b>Zhu, L.</b>, Sheng, J.-X., and Scarpelli, T.: Satellite-Observed Changes in Mexico’s Offshore Gas Flaring Activity Linked to Oil/Gas Regulations, <u><em>Geophysical Research Letters</em></u>, 2019. 
+<b>10</b> <b>Zhang Y*.</b>., Mathur R., Bash J., Hogrefe C., Xing J., Roselle S.: Long-term trends in total inorganic nitrogen and sulfur deposition in the U.S. from 1990 to 2010. <em><u>Atmos. Chem. Phys., https://doi.org/10.5194/acp-18-9091-2018, 2018.
 
-<b>19</b> Wang, X., Jacob, D. J., Eastham, S. D., Sulprizio, M. P., <b>Zhu, L.</b>, Chen, Q., Alexander, B., Sherwen, T., Evans, M. J., Lee, B. H., Haskins, J. D., Lopez-Hilfiker, F. D., Thornton, J. A., Huey, G. L., and Liao, H.: The role of chlorine in tropospheric chemistry, <u><em>Atmospheric Chemistry and Physics</em></u>, 2019.
+<b>9</b> <b>Zhang Y.</b>, Smith S., Bowden J., Adelman Z., West J.: Co-benefits of global, domestic, and sectoral greenhouse gas mitigation for US air quality and human health in 2050. <em><u>Environ. Res. Lett., 2017.
 
-<b>18</b> Song, S., Gao, M., Xu, W., Sun, Y., Worsnop, D. R., Jayne, J. T., Zhang, Y., <b>Zhu, L.</b>, Li, M., Zhou, Z., Cheng, C., Lv, Y., Wang, Y., Peng, W., Xu, X., Lin, N., Wang, Y., Wang, S., Munger, J. W., Jacob, D. J., and McElroy, M. B.: Possible heterogeneous chemistry of hydroxymethanesulfonate (HMS) in northern China winter haze, <u><em>Atmospheric Chemistry and Physics</em></u>, 2019. 
+<b>8</b> Xing J., Wang J., Mathur R., Wang S., Sarwar G., Pleim J., Hogrefe C., <b>Zhang Y.</b>, Jiang J., Wong W. and Hao J.: Impacts of aerosol direct effects on tropospheric ozone through changes in atmospheric dynamics and photolysis rates, <em><u>Atmos. Chem. Phys., https://doi.org/10.5194/acp-17-9869-2017, 2017.
 
-<b>17</b> Sun, K., <b>Zhu, L.</b>, Cady-Pereira, K., Chan Miller, C., Chance, K., Clarisse, L., Coheur, P.-F., González Abad, G., Huang, G., Liu, X., Van Damme, M., Yang, K., and Zondlo, M.: A physics-based approach to oversample multi-satellite, multispecies observations to a common grid, <u><em>Atmospheric Measurement Techniques</em></u>, 2018.
+<b>7</b> <b>Zhang Y.</b>, Cooper O., Gaudel A., Thompson A., Nédélec P., Ogino S., and West J.: Tropospheric ozone change from 1980 to 2010 dominated by equatorward redistribution of emissions, <em><u>Nat. Geosci.,  https://www.nature.com/articles/ngeo2827,  2016. 
 
-<b>16</b> Kaiser, J., Jacob, D. J., <b>Zhu, L.</b>, Travis, K. R., Fisher, J. A., González Abad, G., Zhang, L., Zhang, X., Fried, A., Crounse, J. D., St. Clair, J. M., and Wisthaler, A.: High-resolution inversion of OMI formaldehyde columns to quantify isoprene emission on ecosystem-relevant scales: application to the southeast US, <u><em>Atmospheric Chemistry and Physics</em></u>, 2018.
+<b>6</b> <b>Zhang Y.</b>, Bowden J., Adelman Z., Naik V., Horowitz L., Smith S., West J.: Co-benefits of global and regional greenhouse gas mitigation on U.S. air quality in 2050, <em><u>Atmos. Chem. Phys. https://doi.org/10.5194/acp-16-9533-2016, 2016.
 
-<b>15</b> <b>Zhu, L. *</b>, Mickley, L., J., Jacob, D. J., Marais, E. A., Sheng, J., Hu, L., González Abad, G., and Chance, K.: Long-term (2005–2014) trends in formaldehyde (HCHO) columns across North America as seen by the OMI satellite instrument: Evidence of changing emissions of volatile organic compounds, <u><em>Geophysical Research Letters</em></u>, 2017.
+<b>5</b> West J., Smith S., Silva R., Naik V., <b>Zhang Y.</b>, Adelman Z., Fry M., Anenberg S.,Horowitz L., and Lamarque J.: Co-benefits of global greenhouse gas mitigation for future air quality and human health, <em><u>Nat. Clim. Chang., 3, 885-889, https://doi.org/10.1038/nclimate2009, 2013.
 
-<b>14</b> <b>Zhu, L. *</b>, Jacob, D. J., Keutsch, F. N., Mickley, L. J., Scheffe, R., Strum, M., Abad, G. G., Chance, K., Yang, K., Rappengluck, B., Millet, D. B., Baasandorj, M., Jaegle, L., and Shah, V.: Formaldehyde (HCHO) as a Hazardous Air Pollutant: Mapping surface air concentrations from satellite and inferring cancer risks in the United States, <u><em>Environmental Science & Technology</em></u>, 2017.
+<b>4</b> Silva R., West J., <b>Zhang Y.</b>, Anenberg C., Lamarque J., Shindell D., Bergmann D., Berntsen T., Cameron-Smith P., Collins W., Ghan S., Josse B., Nagashima T., Naik V., Plummer D., Rodriguez J., Szopa S., and Zeng G.: Global premature mortality due to anthropogenic outdoor air pollution and the contribution of past climate change, <em><u>Environ. Res. Lett., 8, 034005,https://iopscience.iop.org/article/10.1088/1748-9326/8/3/034005, 2013. 
 
-<b>13</b> Chan Miller, C., Jacob, D. J., Marais, E. A., Yu, K., Travis, K. R., Kim, P. S., Fisher, J. A., <b>Zhu, L.</b>, Wolfe, G. M., Hanisco, T. F., Keutsch, F. N., Kaiser, J., Min, K.-E., Brown, S. S., Washenfelder, R. A., González Abad, G., and Chance, K.: Glyoxal yield from isoprene oxidation and relation to formaldehyde: chemical mechanism, constraints from SENEX aircraft observations, and interpretation of OMI satellite data, <u><em>Atmospheric Chemistry and Physics</em></u>, 2017.
-
-<b>12</b> Travis, K. R., Jacob, D. J., Fisher, J. A., Kim, P. S., Marais, E. A., <b>Zhu, L.</b>, Yu, K., Miller, C. C., Yantosca, R. M., Sulprizio, M. P., Thompson, A. M., Wennberg, P. O., Crounse, J. D., St. Clair, J. M., Cohen, R. C., Laughner, J. L., Dibb, J. E., Hall, S. R., Ullmann, K., Wolfe, G. M., Pollack, I. B., Peischl, J., Neuman, J. A., and Zhou, X.: Why do models overestimate surface ozone in the Southeast United States?, <u><em>Atmospheric Chemistry and Physics</em></u>, 2016. 
-
-<b>11</b> <b>Zhu, L. *</b>, Jacob, D. J., Kim, P. S., Fisher, J. A., Yu, K., Travis, K. R., Mickley, L. J., Yantosca, R. M., Sulprizio, M. P., De Smedt, I., González Abad, G., Chance, K., Li, C., Ferrare, R., Fried, A., Hair, J. W., Hanisco, T. F., Richter, D., Jo Scarino, A., Walega, J., Weibring, P., and Wolfe, G. M.: Observing atmospheric formaldehyde (HCHO) from space: validation and intercomparison of six retrievals from four satellites (OMI, GOME2A, GOME2B, OMPS) with SEAC4RS aircraft observations over the southeast US, <u><em>Atmospheric Chemistry and Physics</em></u>, 2016.
-
-<b>10</b> Fisher, J. A., Jacob, D. J., Travis, K. R., Kim, P. S., Marais, E. A., Chan Miller, C., Yu, K., <b>Zhu, L.</b>, Yantosca, R. M., Sulprizio, M. P., Mao, J., Wennberg, P. O., Crounse, J. D., Teng, A. P., Nguyen, T. B., St. Clair, J. M., Cohen, R. C., Romer, P., Nault, B. A., Wooldridge, P. J., Jimenez, J. L., Campuzano-Jost, P., Day, D. A., Hu, W., Shepson, P. B., Xiong, F., Blake, D. R., Goldstein, A. H., Misztal, P. K., Hanisco, T. F., Wolfe, G. M., Ryerson, T. B., Wisthaler, A., and Mikoviny, T.: Organic nitrate chemistry and its implications for nitrogen budgets in an isoprene- and monoterpene-rich atmosphere: constraints from aircraft (SEAC4RS) and ground-based (SOAS) observations in the Southeast US, <u><em>Atmospheric Chemistry and Physics</em></u>, 2016.
-
-<b>9</b> Yu, K., Jacob, D. J., Fisher, J. A., Kim, P. S., Marais, E. A., Miller, C. C., Travis, K. R., <b>Zhu, L.</b>, Yantosca, R. M., Sulprizio, M. P., Cohen, R. C., Dibb, J. E., Fried, A., Mikoviny, T., Ryerson, T. B., Wennberg, P. O., and Wisthaler, A.: Sensitivity to grid resolution in the ability of a chemical transport model to simulate observed oxidant chemistry under high-isoprene conditions, <u><em>Atmospheric Chemistry and Physics</em></u>, 2016. 
-
-<b>8</b> Marais, E. A., Jacob, D. J., Jimenez, J. L., Campuzano-Jost, P., Day, D. A., Hu, W., Krechmer, J., <b>Zhu, L.</b>, Kim, P. S., Miller, C. C., Fisher, J. A., Travis, K., Yu, K., Hanisco, T. F., Wolfe, G. M., Arkinson, H. L., Pye, H. O. T., Froyd, K. D., Liao, J., and McNeill, V. F.: Aqueous-phase mechanism for secondary organic aerosol formation from isoprene: application to the southeast United States and co-benefit of SO2 emission controls, <u><em>Atmospheric Chemistry and Physics</em></u>, 2016. 
-
-<b>7</b> Zhang Y., Cooper O., Gaudel A., Thompson A., Nédélec P., Ogino S., and West J.: Tropospheric ozone change from 1980 to 2010 dominated by equatorward redistribution of emissions, Nature Geoscience,  https://www.nature.com/articles/ngeo2827,  2016. 
-
-<b>6</b> Zhang Y., Bowden J., Adelman Z., Naik V., Horowitz L., Smith S., West J.: Co-benefits of global and regional greenhouse gas mitigation on U.S. air quality in 2050, Atmos. Chem. Phys. https://doi.org/10.5194/acp-16-9533-2016, 2016.
-
-<b>5</b> West J., Smith S., Silva R., Naik V., Zhang Y., Adelman Z., Fry M., Anenberg S.,Horowitz L., and Lamarque J.: Co-benefits of global greenhouse gas mitigation for future air quality and human health, Nat. Clim. Chang., 3, 885-889, https://doi.org/10.1038/nclimate2009, 2013.
-
-<b>4</b> Silva R., West J., Zhang Y., Anenberg C., Lamarque J., Shindell D., Bergmann D., Berntsen T., Cameron-Smith P., Collins W., Ghan S., Josse B., Nagashima T., Naik V., Plummer D., Rodriguez J., Szopa S., and Zeng G.: Global premature mortality due to anthropogenic outdoor air pollution and the contribution of past climate change, Environ. Res. Lett., 8, 034005,https://iopscience.iop.org/article/10.1088/1748-9326/8/3/034005, 2013. 
-
-<b>3</b> Wang Y., Zhang Y., Hao J., and Luo M.: Seasonal and spatial variability of surface ozone over China: contributions from background and domestic pollution, Atmos. Chem. Phys., 11, 3511-3525, https://doi.org/10.5194/acp-11-3511-2011, 2011.
+<b>3</b> Wang Y., <b>Zhang Y.</b>, Hao J., and Luo M.: Seasonal and spatial variability of surface ozone over China: contributions from background and domestic pollution, <em><u>Atmos. Chem. Phys., 11, 3511-3525, https://doi.org/10.5194/acp-11-3511-2011, 2011.
 
 <b>2</b> Wang Y., Hao J., Mcelroy B., Munger J., Ma H., Nielsen C., and <b>Zhang Y.</b>, Year round measurements of O<sub>3</sub> and CO at a rural site near Beijing: variations in their correlations, <em><u>Tellus</u></em>, 62B, 228–241, https://doi.org/10.1111/j.1600-0889.2010.00464.x, 2010.
 
-<b>1</b> WangY., Zhang Y., and Hao J.: Review on the applications of Tropospheric Emissions Spectrometer to air quality research: perspectives for China, <u><em>Front. Environ. Sci. Engin. China</em></u>, 4(1), 12-19, https://doi.org/10.1007/s11783-010-0012-9, 2010.
+<b>1</b> WangY., <b>Zhang Y.</b>, and Hao J.: Review on the applications of Tropospheric Emissions Spectrometer to air quality research: perspectives for China, <u><em>Front. Environ. Sci. Engin. China</em></u>, 4(1), 12-19, https://doi.org/10.1007/s11783-010-0012-9, 2010.
 
 </div>
 </div>
