@@ -36,13 +36,13 @@ Interactions between climate change, air pollution and human health
 
 #### <b>HONORS AND AWARDS (PARTIAL)</b>
 
-<p style="text-indent:-2em;padding:2em"> 2022 <b>Early Career Geoscience Faculty Workshop: Teaching, Research and <br>Managing Your</b> Careeracceptance<p>  
+2022 <b>Early Career Geoscience Faculty Workshop: Teaching, Research and <br>Managing Your</b> Careeracceptance  
 One article (Shindell et al., 2020) listed as <b>“ Top Cited Article 2020 - 2021”</b>  
-One article ( Parson et al., 2021 ) listed as a <b>“Editors’ Highlights of Social Science”</b> from Nature Communication  
-One article ( Miyazaki et al., 2020 ) listed as <b>*Top 10% most downloaded in 2020 for the journal</b>  
+One article (Parson et al., 2021) listed as a <b>“Editors’ Highlights of Social Science”</b> from Nature Communication  
+One article (Miyazaki et al., 2020) listed as <b>*Top 10% most downloaded in 2020 for the journal</b>  
 One article (Silva et al., 2013) listed as <b>“Editorial Highlights in 2013”</b> and <b>“Editorial Highlights of 2006 - 2016”</b> in journal Environmental Research Letter  
 2020 IOP Publishing Environmental Research Letter <b>Outstanding Reviewer Award for 2019</b>  
-2020 EGU Roland Schlich T ravel A ward  
+2020 EGU Roland Schlich TravelA ward  
 
 </div>
 
@@ -69,12 +69,13 @@ One article (Silva et al., 2013) listed as <b>“Editorial Highlights in 2013”
 
 #### <b>部分所获荣誉</b>
 
-2020 美国气象学会年度贡献奖  
-2018 NASA、美国内政部 William T. Pecora 团队奖  
-2017 <i>Atmospheric Environment</i> 杰出审稿人  
-2015 NASA团队成就奖  
-2013 哈佛大学杰出教学认证  
-2008 南开大学优秀毕业生
+2022 <b>Early Career Geoscience Faculty Workshop: Teaching, Research and Managing Your Career</b> acceptance  
+一篇文章被列为<b>“2020 - 2021年被引用最多的文章”</b> (Shindell et al., 2020)  
+一篇文章被Nature Communication列为<b>“Editors’ Highlights of Social Science”</b> (Parson et al., 2021)   
+一篇文章被列为<b>“2020年期刊下载次数前十”</b> (Miyazaki et al., 2020)   
+一篇文章被Environmental Research Letter列为<b>“2013年亮点文章”和“2006 - 2016年亮点文章”</b> (Silva et al., 2013)  
+2020 IOP Publishing Environmental Research Letter <b>2019年杰出审稿人</b>  
+2020 EGU Roland Schlich 旅行奖  
 
 #### <b>学术兼职</b>
 
