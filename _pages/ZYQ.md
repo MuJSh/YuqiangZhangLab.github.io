@@ -54,25 +54,25 @@ One article (Silva et al., 2013) listed as <b>"Editorial Highlights in 2013"</b>
 
 #### <b>COMMUNITY SERVICES</b>
 
-Journal Reviewer for > 100 articles , including but not limited to Nat. Clim. Change, Nat. Comms., The Lancet Planetary Health, Atmos. Chem. Phys., Environ. Sci. Technol., Environ. Int., Geophys. Res. Lett, Environ. Res. Lett., Atmos. Environ and so on  
-Session Convener for AG U Fall Meeting 2021 GeoHealth session  
-Session Convener for AGU Fall Meeting 2020 Atmospheric Science session and Global Environment Change session    
-Coordinator for AGU Fall Meeting Global Environmental Change section OSPA since 2018  
-Panel review for 2020 NASA Postdoctoral program  
-Proposal & Panel review for NASA FINESST 2019  
-Primary & Co-convener for 2020 AGU Fall Meeting “ Global Environmental Change ” and “ Atmospheric Sciences ” session  
-Expert Reviewer for the Second Order Draft (SOD) of the Working Group I (WGI) contribution to th e Sixth Assessment Report (AR6), 2020  
-Co - host (2 in total) the NOAA’s 44 th Climate Diagnostics and Prediction Workshop in 2019   
-Executive committee for the International Conference on Air Benefits and Cost and Attainment Assessment, 2018 - 2021   
-Organizing committee for the 5 th Chinese Environmental Scholars Forum in Duke University, NC, May 19 - 20, 2018   
-Special issue editor for Atmosphere “Air Quality Management” till May, 2021   
-Session chair for the NOAA’s 44 th Climate Diagnostics and Prediction Workshop in 2019  
-Session chair for the 7 th International Conference on Air Benefits and Cost and Attainment Assessment, Zhejiang, China, May 20 - 22 2019   
-Reviewer board for the journal Atmosphere since 2019   
-Reviewer for 2018 AGU Fall Meeting Berkner Travel Fellowship   
-Reviewer for 2018 AGU Fall Meeting David S. Miller Young Scientist Scholarship reviewers   
-Reviewer for 2018 AGU Fall Meeting Student Travel Grant   
-Judge for 2017 AGU Fall Meeting Outstanding Student Paper Award (OSPA)  
+<b>Journal Reviewer</b> for > 100 articles , including but not limited to Nat. Clim. Change, Nat. Comms., The Lancet Planetary Health, Atmos. Chem. Phys., Environ. Sci. Technol., Environ. Int., Geophys. Res. Lett, Environ. Res. Lett., Atmos. Environ and so on  
+<b>Session Convener</b> for AG U Fall Meeting 2021 GeoHealth session  
+<b>Session Convener</b> for AGU Fall Meeting 2020 Atmospheric Science session and Global Environment Change session    
+<b>Coordinator</b> for AGU Fall Meeting Global Environmental Change section OSPA since 2018  
+<b>Panel review</b> for 2020 NASA Postdoctoral program  
+<b>Proposal & Panel review</b> for NASA FINESST 2019  
+<b>Primary & Co-convener</b> for 2020 AGU Fall Meeting “ Global Environmental Change ” and “ Atmospheric Sciences ” session  
+<b>Expert Reviewer</b> for the Second Order Draft (SOD) of the Working Group I (WGI) contribution to th e Sixth Assessment Report (AR6), 2020  
+<b>Co - host</b> (2 in total) the NOAA’s 44 th Climate Diagnostics and Prediction Workshop in 2019   
+<b>Executive committee</b> for the International Conference on Air Benefits and Cost and Attainment Assessment, 2018 - 2021   
+<b>Organizing committee</b> for the 5 th Chinese Environmental Scholars Forum in Duke University, NC, May 19 - 20, 2018   
+<b>Special issue editor</b> for Atmosphere “Air Quality Management” till May, 2021   
+<b>Session chair</b> for the NOAA’s 44 th Climate Diagnostics and Prediction Workshop in 2019  
+<b>Session chair</b> for the 7 th International Conference on Air Benefits and Cost and Attainment Assessment, Zhejiang, China, May 20 - 22 2019   
+<b>Reviewer board</b> for the journal Atmosphere since 2019   
+<b>Reviewer</b> for 2018 AGU Fall Meeting Berkner Travel Fellowship   
+<b>Reviewer</b> for 2018 AGU Fall Meeting David S. Miller Young Scientist Scholarship reviewers   
+<b>Reviewer</b> for 2018 AGU Fall Meeting Student Travel Grant   
+<b>Judge</b> for 2017 AGU Fall Meeting Outstanding Student Paper Award (OSPA)  
   
 </div>
 </div>
