@@ -8,7 +8,7 @@ permalink: /publications/
 
 <p></p>
 
-(<b>XYZ-CHANGE members in bold</b>; <b>*</b> Yuqiang Zhang as the corresponding author)
+(<b>XYZ-CHANGE members in bold</b>;)
 
 <p></p>
 
