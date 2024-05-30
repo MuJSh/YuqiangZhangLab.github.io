@@ -1,4 +1,4 @@
-﻿---
+---
 title: "People | 成员"
 layout: gridlay
 excerpt: "People"
@@ -26,48 +26,20 @@ permalink: /people/
   <i>Email: {{ member.email }}</i><br>
   {% endif %}
 
-  {% if member.number_educ == 1 %}
+  {% if member.number_educ %}
   <p>
   {{ member.education1 }} <br>
-  </p>
-  {% endif %}
-  
-  {% if member.number_educ == 2 %}
-  <p>
-  {{ member.education1 }} <br>
-  {{ member.education2 }} <br>
-  </p>
-  {% endif %}
-  
-  {% if member.number_educ == 3 %}
-  <p>
-  {{ member.education1 }} <br>
-  {{ member.education2 }} <br>
-  {{ member.education3 }} <br>
-  </p>
-  {% endif %}
-  
-  {% if member.number_educ == 4 %}
-  <p>
-  {{ member.education1 }} <br>
-  {{ member.education2 }} <br>
-  {{ member.education3 }} <br>
-  {{ member.education4 }} <br>
-  </p>
-  {% endif %}
-  
-  {% if member.number_educ == 5 %}
-  <p>
-  {{ member.education1 }}  
-  {{ member.education2 }}  
-  {{ member.education3 }}  
-  {{ member.education4 }}  
-  {{ member.education5 }}
+  {% if member.number_educ > 1 %}{{ member.education2 }} <br>{% endif %}
+  {% if member.number_educ > 2 %}{{ member.education3 }} <br>{% endif %}
+  {% if member.number_educ > 3 %}{{ member.education4 }} <br>{% endif %}
+  {% if member.number_educ > 4 %}{{ member.education5 }} <br>{% endif %}
+  {% if member.number_educ > 5 %}{{ member.education6 }} <br>{% endif %}
+  {% if member.number_educ > 6 %}{{ member.education7 }} <br>{% endif %}
   </p>
   {% endif %}
   
   {% if member.group_member == 1 %}
-  <p>{{ member.statement }} </p>
+  <p>{{ member.statement }}</p>
   {% endif %}
 
 </div>
@@ -100,4 +72,3 @@ permalink: /people/
 
 </div>
 </div>
-
