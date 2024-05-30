@@ -147,32 +147,4 @@ firstp {
     margin-right: 35px;
 }
 
-.member-info {
-  display: flex;
-  align-items: center;
-  margin-bottom: 24px;
-}
 
-.member-photo {
-  border-radius: 2%;
-  width: 100%;
-}
-
-.col-sm-3 {
-  flex: 0 0 26%;
-  max-width: 26%;
-}
-
-.col-sm-9 {
-  flex: 0 0 74%;
-  max-width: 74%;
-}
-
-.member-info h4, .member-info p {
-  margin: 0;
-}
-
-.member-info p {
-  line-height: 1.5;
-  margin-bottom: 10px;
-}
