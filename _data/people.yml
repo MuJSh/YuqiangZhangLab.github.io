@@ -52,6 +52,19 @@
   education5:
   statement:
 
+ - name: "Zhuyi Wang | 王竹依"
+  photo: none.jpg
+  group_member: 1
+  info: PhD Student (2023.07–)
+  email: xxxx@mail.sdu.edu.cn
+  number_educ: 2
+  education1: 2020-2023, MS, xx
+  education2: 2016-2020, BS, xx
+  education3:
+  education4:
+  education5:
+  statement: 
+
 - name: "Bin Luo | 骆滨"
   photo: none.jpg
   group_member: 1
@@ -59,6 +72,19 @@
   email: luobin.sdu@mail.sdu.edu.cn
   number_educ: 1
   education1: 2018–2022, BS, Xiangtan University
+  education2:
+  education3:
+  education4:
+  education5:
+  statement:
+
+- name: "Xuanying Ji | 吉烜莹"
+  photo: none.jpg
+  group_member: 1
+  info: Master Student (2023.07–)
+  email: xxx@mail.sdu.edu.cn
+  number_educ: 1
+  education1: 2019–2023, BS, xx
   education2:
   education3:
   education4:
