@@ -8,9 +8,9 @@ permalink: /group_meetings/
 
 ## Group Meeting Schedule
 
-Group meettings are held every other week.   
+Group meettings are held every week.   
 
-The normal time/place is W. 1900 in CoE North 901.  
+The normal time/place is 9:00 am in K6-330.  
 
 <b>Schedule is subject to change, please check frequently. </b>
 
