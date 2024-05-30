@@ -1,104 +1,104 @@
-﻿- name: <a href="https://mujsh.github.io/YuqiangZhangLab.github.io/ZYQ">Yuqiang Zhang | 张玉强</a>
-  photo: Yuqiangzhang.jpg
+- name: "<a href='https://mujsh.github.io/YuqiangZhangLab.github.io/ZYQ'>Yuqiang Zhang | 张玉强</a>"
+  photo: "Yuqiangzhang.jpg"
   group_member: 1
-  info: Professor (2022.10–)
-  email: Yuqiang.Zhang@sdu.edu.cn
-  number_educ: 4
-  education1: 2022, Professor, Shandong University
-  education2: 2021–2022, Researcher, University of North Carolina at Chapel Hill UNC
-  education3: 2018–2021, Researcher, Duke University
-  education4: 2016–2018, Postdoc, U.S. Environmental Protection Agency
-  education5: 2011–2016, PhD, University of North Carolina at Chapel Hill UNC
-  education6: 2008–2011, MS, Tsinghua University
-  education7: 2004–2008, BS, Shandong University
-  statement:
+  info: "Professor (2022.10–)"
+  email: "Yuqiang.Zhang@sdu.edu.cn"
+  number_educ: 7
+  education1: "2022, Professor, Shandong University"
+  education2: "2021–2022, Researcher, University of North Carolina at Chapel Hill UNC"
+  education3: "2018–2021, Researcher, Duke University"
+  education4: "2016–2018, Postdoc, U.S. Environmental Protection Agency"
+  education5: "2011–2016, PhD, University of North Carolina at Chapel Hill UNC"
+  education6: "2008–2011, MS, Tsinghua University"
+  education7: "2004–2008, BS, Shandong University"
+  statement: ""
 
 - name: "Lin Li | 李琳"
-  photo: none.jpg
+  photo: "none.jpg"
   group_member: 1
-  info: Postdoct Fellow (2023.??–)
-  email: xxxx@mail.sustech.edu.cn
+  info: "Postdoct Fellow (2023.??–)"
+  email: "xxxx@mail.sustech.edu.cn"
   number_educ: 1
-  education1: 2017-2022, PhD, Nanjing University of Information Science & Technology
-  education2:
-  education3:
-  education4:
-  education5:
-  statement:
+  education1: "2017-2022, PhD, Nanjing University of Information Science & Technology"
+  education2: ""
+  education3: ""
+  education4: ""
+  education5: ""
+  statement: ""
 
 - name: "Na Zhao | 赵娜"
-  photo: none.jpg
+  photo: "none.jpg"
   group_member: 1
-  info: Postdoct Fellow (2023.??–)
-  email: xxx@mail.sustech.edu.cn
+  info: "Postdoct Fellow (2023.??–)"
+  email: "xxx@mail.sustech.edu.cn"
   number_educ: 1
-  education1: 2017-2022, PhD, Fudan University
-  education2:
-  education3:
-  education4:
-  education5:
-  statement:
+  education1: "2017-2022, PhD, Fudan University"
+  education2: ""
+  education3: ""
+  education4: ""
+  education5: ""
+  statement: ""
 
 - name: "Jiangshan Mu | 牟江山"
-  photo: Jiangshanmu.jpg
+  photo: "Jiangshanmu.jpg"
   group_member: 1
-  info: PhD Student (2021.07–)
-  email: mujsh@mail.sdu.edu.cn
+  info: "PhD Student (2021.07–)"
+  email: "mujsh@mail.sdu.edu.cn"
   number_educ: 2
-  education1: 2018-2021, MS, Shandong University
-  education2: 2014-2018, BS, Ocean University of China
-  education3:
-  education4:
-  education5:
-  statement:
+  education1: "2018-2021, MS, Shandong University"
+  education2: "2014-2018, BS, Ocean University of China"
+  education3: ""
+  education4: ""
+  education5: ""
+  statement: ""
 
- - name: "Zhuyi Wang | 王竹依"
-  photo: none.jpg
+- name: "Zhuyi Wang | 王竹依"
+  photo: "none.jpg"
   group_member: 1
-  info: PhD Student (2023.07–)
-  email: xxxx@mail.sdu.edu.cn
+  info: "PhD Student (2023.07–)"
+  email: "xxxx@mail.sdu.edu.cn"
   number_educ: 2
-  education1: 2020-2023, MS, xx
-  education2: 2016-2020, BS, xx
-  education3:
-  education4:
-  education5:
-  statement: 
+  education1: "2020-2023, MS, xx"
+  education2: "2016-2020, BS, xx"
+  education3: ""
+  education4: ""
+  education5: ""
+  statement: ""
 
 - name: "Bin Luo | 骆滨"
-  photo: none.jpg
+  photo: "none.jpg"
   group_member: 1
-  info: Master Student (2022.07–)
-  email: luobin.sdu@mail.sdu.edu.cn
+  info: "Master Student (2022.07–)"
+  email: "luobin.sdu@mail.sdu.edu.cn"
   number_educ: 1
-  education1: 2018–2022, BS, Xiangtan University
-  education2:
-  education3:
-  education4:
-  education5:
-  statement:
+  education1: "2018–2022, BS, Xiangtan University"
+  education2: ""
+  education3: ""
+  education4: ""
+  education5: ""
+  statement: ""
 
 - name: "Xuanying Ji | 吉烜莹"
-  photo: none.jpg
+  photo: "none.jpg"
   group_member: 1
-  info: Master Student (2023.07–)
-  email: xxx@mail.sdu.edu.cn
+  info: "Master Student (2023.07–)"
+  email: "xxx@mail.sdu.edu.cn"
   number_educ: 1
-  education1: 2019–2023, BS, xx
-  education2:
-  education3:
-  education4:
-  education5:
-  statement:
+  education1: "2019–2023, BS, xx"
+  education2: ""
+  education3: ""
+  education4: ""
+  education5: ""
+  statement: ""
 
 - name: "This could be you !"
-  photo: wny.jpg
-  group_member: 0  
-  info: See <a href="https://mujsh.github.io/YuqiangZhangLab.github.io/openings">Openings</a> for more information
-  email: zhul3@sustech.edu.cn
+  photo: "wny.jpg"
+  group_member: 0
+  info: "See <a href='https://mujsh.github.io/YuqiangZhangLab.github.io/openings'>Openings</a> for more information"
+  email: "zhul3@sustech.edu.cn"
   number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
-  statement:
+  education1: ""
+  education2: ""
+  education3: ""
+  education4: ""
+  statement: ""
