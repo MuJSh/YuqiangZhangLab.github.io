@@ -12,7 +12,7 @@ permalink: /openings/
 #### <b>Postdocs</b>
 
 We seek postdocs with expertise in Atmospheric Chemistry Modeling and/or Remote Sensing and/or Machine Learning.
-For more details, please check [the post]({{ site.url }}{{ site.baseurl }}/downloads/Postdoc.pdf).
+/* For more details, please check [the post]({{ site.url }}{{ site.baseurl }}/downloads/Postdoc.pdf). */
 
 </div>
 
