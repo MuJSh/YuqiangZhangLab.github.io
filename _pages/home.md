@@ -21,7 +21,7 @@ Our research interests are broadly at the interactions between air quality, clim
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slides/wordcloud.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slides/group.png" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slides/slide2.png" alt="Slide 2" />
