@@ -91,11 +91,37 @@
   education5: ""
   statement: ""
 
+- name: "Zhou Liu | 刘舟"
+  photo: "none.jpg"
+  group_member: 1
+  info: "Research Assistant (2023.07–)"
+  email: "xxx@mail.sdu.edu.cn"
+  number_educ: 1
+  education1: "2020–2023, MS, Nanjing University of Information Science and Technology"
+  education2: ""
+  education3: ""
+  education4: ""
+  education5: ""
+  statement: ""
+
+- name: "Zhou Liu | 刘舟"
+  photo: "none.jpg"
+  group_member: 1
+  info: "Research Assistant (2023.07–)"
+  email: "xxx@mail.sdu.edu.cn"
+  number_educ: 1
+  education1: "2020–2023, MS, Beijing University of Chemical Technology"
+  education2: ""
+  education3: ""
+  education4: ""
+  education5: ""
+  statement: ""
+  
 - name: "This could be you !"
   photo: "wny.jpg"
   group_member: 0
   info: "See <a href='https://mujsh.github.io/YuqiangZhangLab.github.io/openings'>Openings</a> for more information"
-  email: "zhul3@sustech.edu.cn"
+  email: "Yuqiang.Zhang@sdu.edu.cn"
   number_educ: 0
   education1: ""
   education2: ""
