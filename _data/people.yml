@@ -16,8 +16,8 @@
 - name: "Lin Li | 李琳"
   photo: "none.jpg"
   group_member: 1
-  info: "Postdoct Fellow (2023.??–)"
-  email: "xxxx@mail.sustech.edu.cn"
+  info: "Postdoct Fellow (2023.02–)"
+  email: "linli@sdu.edu.cn"
   number_educ: 1
   education1: "2017-2022, PhD, Nanjing University of Information Science & Technology"
   education2: ""
@@ -29,8 +29,8 @@
 - name: "Na Zhao | 赵娜"
   photo: "none.jpg"
   group_member: 1
-  info: "Postdoct Fellow (2023.??–)"
-  email: "xxx@mail.sustech.edu.cn"
+  info: "Postdoct Fellow (2023.02–)"
+  email: "zhaona2023@sdu.edu.cn"
   number_educ: 1
   education1: "2017-2022, PhD, Fudan University"
   education2: ""
@@ -56,10 +56,10 @@
   photo: "none.jpg"
   group_member: 1
   info: "PhD Student (2023.07–)"
-  email: "xxxx@mail.sdu.edu.cn"
+  email: "zhuyi_wang@163.com"
   number_educ: 2
-  education1: "2020-2023, MS, xx"
-  education2: "2016-2020, BS, xx"
+  education1: "2020-2023, MS, China University of Petroleum (East China)"
+  education2: "2016-2020, BS, Shandong Jianzhu University"
   education3: ""
   education4: ""
   education5: ""
@@ -82,9 +82,9 @@
   photo: "none.jpg"
   group_member: 1
   info: "Master Student (2023.07–)"
-  email: "xxx@mail.sdu.edu.cn"
+  email: "jxy15668462325@163.com"
   number_educ: 1
-  education1: "2019–2023, BS, xx"
+  education1: "2019–2023, BS, Shandong Agricultural University"
   education2: ""
   education3: ""
   education4: ""
@@ -95,7 +95,7 @@
   photo: "none.jpg"
   group_member: 1
   info: "Research Assistant (2023.07–)"
-  email: "xxx@mail.sdu.edu.cn"
+  email: "945863160@qq.com"
   number_educ: 1
   education1: "2020–2023, MS, Nanjing University of Information Science and Technology"
   education2: ""
@@ -104,11 +104,11 @@
   education5: ""
   statement: ""
 
-- name: "Zhou Liu | 刘舟"
+- name: "Zizhen Han | 韩子祯"
   photo: "none.jpg"
   group_member: 1
   info: "Research Assistant (2023.07–)"
-  email: "xxx@mail.sdu.edu.cn"
+  email: "919612407@qq.com"
   number_educ: 1
   education1: "2020–2023, MS, Beijing University of Chemical Technology"
   education2: ""
