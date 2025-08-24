@@ -17,31 +17,35 @@ permalink: /people/
 <div class="row" style="margin-left:-30px;margin-right:-30px;">
 {% endif %}
 
-<div class="col-sm-6 clearfix" style="padding-left:10px;padding-right:10px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/peopic/{{ member.photo }}" class="img-responsive" width="120" style="float: left; margin: 0 16px 8px 0; border-radius:12px;" />
-  <h4>{{ member.name }}</h4>
-  {{ member.info }}<br>
-  
-  {% if member.group_member == 1 %}
-  <i>Email: {{ member.email }}</i><br>
-  {% endif %}
+<div class="col-sm-6 clearfix" style="padding-left:30px;padding-right:30px; display:flex; align-items:flex-start;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/peopic/{{ member.photo }}" 
+       class="img-responsive" width="120" 
+       style="margin: 0 16px 8px 0; border-radius:12px;" />
 
-  {% if member.number_educ %}
-  <p>
-  {{ member.education1 }} <br>
-  {% if member.number_educ > 1 %}{{ member.education2 }} <br>{% endif %}
-  {% if member.number_educ > 2 %}{{ member.education3 }} <br>{% endif %}
-  {% if member.number_educ > 3 %}{{ member.education4 }} <br>{% endif %}
-  {% if member.number_educ > 4 %}{{ member.education5 }} <br>{% endif %}
-  {% if member.number_educ > 5 %}{{ member.education6 }} <br>{% endif %}
-  {% if member.number_educ > 6 %}{{ member.education7 }} <br>{% endif %}
-  </p>
-  {% endif %}
-  
-  {% if member.group_member == 1 %}
-  <p>{{ member.statement }}</p>
-  {% endif %}
-
+  <div>
+    <h4>{{ member.name }}</h4>
+    {{ member.info }}<br>
+    
+    {% if member.group_member == 1 %}
+    <i>Email: {{ member.email }}</i><br>
+    {% endif %}
+    
+    {% if member.number_educ %}
+    <p>
+      {{ member.education1 }} <br>
+      {% if member.number_educ > 1 %}{{ member.education2 }} <br>{% endif %}
+      {% if member.number_educ > 2 %}{{ member.education3 }} <br>{% endif %}
+      {% if member.number_educ > 3 %}{{ member.education4 }} <br>{% endif %}
+      {% if member.number_educ > 4 %}{{ member.education5 }} <br>{% endif %}
+      {% if member.number_educ > 5 %}{{ member.education6 }} <br>{% endif %}
+      {% if member.number_educ > 6 %}{{ member.education7 }} <br>{% endif %}
+    </p>
+    {% endif %}
+    
+    {% if member.group_member == 1 %}
+    <p>{{ member.statement }}</p>
+    {% endif %}
+  </div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
