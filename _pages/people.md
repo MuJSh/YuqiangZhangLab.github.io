@@ -7,13 +7,13 @@ permalink: /people/
 ---
 
 <style>
-/* 整体容器更宽一点（可按需调节 1200–1320px） */
+/* 整体容器更宽一点 */
 .people-container{ 
   max-width: 1280px; 
   margin: 0 auto; 
 }
 
-/* 加大列间距（覆盖 Bootstrap 默认 15px gutter） */
+/* 调整列间距 */
 .people-row{ 
   margin-left: -30px; 
   margin-right: -30px; 
@@ -23,7 +23,7 @@ permalink: /people/
   padding-right: 30px; 
 }
 
-/* 每个成员用横向布局，头像固定宽度，文本区域更宽 */
+/* 成员卡片样式 */
 .people-card{ 
   display:flex; 
   align-items:flex-start; 
@@ -38,11 +38,11 @@ permalink: /people/
   float:none; 
 }
 
-/* 让文本更舒服 */
+/* 文本美化 */
 .people-card h4{ margin-top:0; }
 .people-card p, .people-card br{ line-height:1.6; }
 
-/* 小屏保持一列即可 */
+/* 小屏保持一列 */
 @media (max-width: 767px){
   .people-card{ gap:14px; padding-bottom:22px; }
 }
@@ -62,7 +62,9 @@ permalink: /people/
 
 <div class="col-sm-6">
   <div class="people-card">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/peopic/{{ member.photo }}" class="img-responsive" alt="{{ member.name }}" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/peopic/{{ member.photo }}" 
+         class="img-responsive" 
+         alt="{{ member.name }}" />
     <div>
       <h4>{{ member.name }}</h4>
       {{ member.info }}<br>
@@ -108,12 +110,16 @@ permalink: /people/
 
 ### Alumni List
 
-<div class="row">
-<div class="col-sm-10 clearfix">
-
+<div class="row people-row">
 {% for alumni in site.data.alumni %}
-  {{ alumni.name }}, {{ alumni.info }}, Now: {{ alumni.now }}.<br>
-{% endfor %}
-
+<div class="col-sm-6">
+  <div class="people-card">
+    <div>
+      <h4>{{ alumni.name }}</h4>
+      {{ alumni.info }}<br>
+      <i>Now: {{ alumni.now }}</i>
+    </div>
+  </div>
 </div>
+{% endfor %}
 </div>
