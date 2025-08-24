@@ -42,12 +42,12 @@
 - name: "Jiangshan Mu | 牟江山"
   photo: "jsmu.jpg"
   group_member: 1
-  info: "PhD Student (2021.07–)"
-  email: "mujsh@mail.sdu.edu.cn"
+  info: "Postdoct Fellow (2025.06–)"
+  email: "mujiangshan0615@gmail.com"
   number_educ: 2
-  education1: "2018-2021, MS, Shandong University"
-  education2: "2014-2018, BS, Ocean University of China"
-  education3: ""
+  education1: "2021-2025, PhD, Shandong University"
+  education2: "2018-2021, MS, Shandong University"
+  education3: "2014-2018, BS, Ocean University of China"
   education4: ""
   education5: ""
   statement: ""
@@ -55,7 +55,7 @@
 - name: "Zhuyi Wang | 王竹依"
   photo: "zhuyiwang.jpg"
   group_member: 1
-  info: "PhD Student (2023.07–)"
+  info: "PhD Student (2023.09–)"
   email: "zhuyi_wang@163.com"
   number_educ: 2
   education1: "2020-2023, MS, China University of Petroleum (East China)"
@@ -68,7 +68,7 @@
 - name: "Bin Luo | 骆滨"
   photo: "binluo.jpg"
   group_member: 1
-  info: "Master Student (2022.07–)"
+  info: "PhD Student (2022.09–)"
   email: "luobin.sdu@mail.sdu.edu.cn"
   number_educ: 1
   education1: "2018–2022, BS, Xiangtan University"
@@ -78,10 +78,23 @@
   education5: ""
   statement: ""
 
+- name: "Zhaoqi Gao | 高照齐"
+  photo: "gzq.jpg"
+  group_member: 1
+  info: "PhD Student (2025.09–)"
+  email: "luobin.sdu@mail.sdu.edu.cn"
+  number_educ: 1
+  education1: "2022–2025, MS, Shandong University"
+  education2: "2018-2022，BS, Qingdao University of Technology"
+  education3: ""
+  education4: ""
+  education5: ""
+  statement: ""
+
 - name: "Xuanying Ji | 吉烜莹"
   photo: "xuanyingji.jpg"
   group_member: 1
-  info: "Master Student (2023.07–)"
+  info: "Master Student (2023.09–)"
   email: "jxy15668462325@163.com"
   number_educ: 1
   education1: "2019–2023, BS, Shandong Agricultural University"
@@ -91,26 +104,26 @@
   education5: ""
   statement: ""
 
-- name: "Zhou Liu | 刘舟"
-  photo: "none.jpg"
+- name: "Qionghui Zhou | 周琼珲"
+  photo: "zqh.jpg"
   group_member: 1
-  info: "Research Assistant (2023.07–)"
-  email: "945863160@qq.com"
+  info: "Master Student (2024.09–)"
+  email: "202433120@mail.sdu.edu.cn"
   number_educ: 1
-  education1: "2020–2023, MS, Nanjing University of Information Science and Technology"
+  education1: "2020–2024, BS, Nanjing University of Information Science and Technology"
   education2: ""
   education3: ""
   education4: ""
   education5: ""
   statement: ""
 
-- name: "Zizhen Han | 韩子祯"
-  photo: "none.jpg"
+- name: "Chengwen Niu | 牛成文"
+  photo: "ncw.jpg"
   group_member: 1
-  info: "Research Assistant (2023.07–)"
-  email: "919612407@qq.com"
+  info: "Master Student (2025.09–)"
+  email: "xx"
   number_educ: 1
-  education1: "2020–2023, MS, Beijing University of Chemical Technology"
+  education1: "2021–2025, BS, Shandong Agricultural University"
   education2: ""
   education3: ""
   education4: ""
