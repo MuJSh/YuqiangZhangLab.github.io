@@ -3,7 +3,7 @@
     
 @import "bootstrap";
 
-/* ========== 基础 ========== */
+/* === Base === */
 img { 
   margin-bottom: 24px; 
   margin-top: 17px; 
@@ -18,10 +18,7 @@ img {
   margin-right: 0px;
   margin-bottom: 0px;
 }
-
-.navbar-default .navbar-brand {
-  color: #FDFEFE;
-}
+.navbar-default .navbar-brand { color: #FDFEFE; }
 
 .navbar-brand{
   padding-top: 25px !important; 
@@ -63,14 +60,12 @@ img {
   border-color: #D6DBDF !important;  
 }
 
-.panel-footer {
-  background-color: #FDFEFE !important;
-}
+.panel-footer { background-color: #FDFEFE !important; }
 
-/* ===== 字体（英文优先，中文兜底） ===== */
+/* === Typography & page === */
 body {
-  /* sticky 方案下不需要用 padding-top 垫高正文 */
-  padding-top: 0;
+  /* 让正文为 fixed 顶部导航预留空间 */
+  padding-top: 88px !important;
   background-color: #F8F9F9;
   font-family: "Inter","SF Pro Text",-apple-system,system-ui,"Segoe UI",
                Roboto,"Helvetica Neue",Arial,"Noto Sans","Microsoft YaHei",sans-serif;
@@ -81,28 +76,21 @@ body {
 
 figcaption {
   text-align: right;
-  /* 避免负 margin 把内容上拉到导航下面 */
-  margin-top: 0;
+  margin-top: 0 !important;     /* 防止被导航覆盖 */
   margin-bottom: 20px;
 }
 
-/* Top navigation bar */
-
+/* Top navigation bar helpers */
 p.byline {
   text-align: center;
   font-size: 18px;
   line-height: 36px;
-  /* 避免负 margin 被导航覆盖 */
-  margin-top: 0;
+  margin-top: 0 !important;     /* 防止被导航覆盖 */
   margin-bottom: 48px;
 }
 
-pubtit {
-  font-weight: bold;
-}
-
-firstp {
-}
+pubtit { font-weight: bold; }
+firstp {}
 
 .container-fluid {
   margin-right: auto;
@@ -111,18 +99,9 @@ firstp {
 }
 
 /* Home, News */
-#newsid p {
-  text-align: left;
-}
-
-#homeidtmp h1 {
-  text-align: center;
-}
-
-#newsid img {
-  margin-top: 6px;
-  margin-bottom: 6px;
-}
+#newsid p { text-align: left; }
+#homeidtmp h1 { text-align: center; }
+#newsid img { margin-top: 6px; margin-bottom: 6px; }
 
 /* Team & Publications */
 #gridid img { 
@@ -131,18 +110,16 @@ firstp {
   box-shadow: 2px 2px 5px #888888;
 }
 #homeid img { 
-  margin: 0 0 0 0; 
+  margin: 0; 
   border-radius: 5%; 
-  box-shadow: 0px 0px 0px #888888;
+  box-shadow: 0 0 0 #888888;
 }
 #picid img { 
   margin: 6px 3px 60px 6px; 
   border-radius: 1%; 
   box-shadow: 2px 2px 5px #888888;
 }
-#gridid .row { 
-  margin-bottom: 24px; 
-}
+#gridid .row { margin-bottom: 24px; }
 
 /* Grid overrides */
 .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-5, .col-sm-6,
@@ -150,8 +127,6 @@ firstp {
   padding-left: 16px;
   padding-right: 16px;
 }
-
-/* Grid overrides */
 .col-sm-4 {
   padding-left: 26px;
   padding-right: 26px;
@@ -159,30 +134,29 @@ firstp {
 
 /* Carousel */
 .carousel {
-  border-radius: 5px 5px 5px 5px;
+  border-radius: 5px;
   margin-bottom: 10px;
   margin-top: 10px;
   margin-left: 35px;
   margin-right: 35px;
 }
 
-/* ========== 关键修复：使用 sticky 导航，不遮正文 ========== */
-/* 让 fixed-top 以粘性方式工作（保留类名，改定位） */
-.navbar-fixed-top {
-  position: sticky !important;
-  top: 0;
-  z-index: 1030;   /* 在内容上方，但不至于压住下拉菜单 */
+/* === 关键修复：固定顶部导航 + 合理高度 === */
+.navbar-fixed-top{
+  position: fixed !important;
+  top: 0; left: 0; right: 0;
+  z-index: 1030;
 }
 
-/* 调小品牌区内边距，避免把导航整体撑得太高 */
+/* 控制品牌区高度，避免把导航撑得过高 */
 .navbar-brand{
   padding-top: 12px !important;
-  height: 52px;
+  height: 56px;
   line-height: 20px;
 }
 
-/* 给 People 外壳一点点正向间距（可选） */
+/* 轻微下移 People 外壳（可选） */
 #gridid { margin-top: 8px; }
 
-/* 如果页面有锚点跳转，避免被吸顶导航挡住标题 */
-h1, h2, h3, h4 { scroll-margin-top: 72px; }
+/* 锚点滚动时避免被导航挡住标题（可选） */
+h1, h2, h3, h4 { scroll-margin-top: 92px; }
