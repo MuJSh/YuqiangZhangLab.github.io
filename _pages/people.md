@@ -18,7 +18,7 @@ permalink: /people/
 {% endif %}
 
 <div class="col-sm-6 clearfix" style="padding-left:30px;padding-right:30px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/peopic/{{ member.photo }}" class="img-responsive" width="120" style="float: left; margin: 0 16px 8px 0; border-radius:12px;" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/peopic/{{ member.photo }}" class="img-responsive" width="150" style="float: left; margin: 0 16px 8px 0; border-radius:12px;" />
   <h4>{{ member.name }}</h4>
   {{ member.info }}<br>
   
