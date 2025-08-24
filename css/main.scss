@@ -1,34 +1,26 @@
 ---
 ---
-
-// 引入 Bootstrap（保留你的原有设置）
+/* ====== Optional: Bootstrap (有就保留，没有也不报错) ====== */
 @import "bootstrap";
 
-/* =========================
-   Design Tokens（可调色盘）
-   ========================= */
-$color-primary: #004C27;   // 品牌主绿（与你导航一致）
-$color-accent:  #2E7D32;   // 强调色（按钮、链接 hover）
-$color-text:    #222;      // 正文
-$color-muted:   #6B7280;   // 次要文字
-$color-bg:      #F8FAFB;   // 页面背景
-$color-panel:   #FFFFFF;   // 卡片背景
-$color-border:  #E5E7EB;   // 边框/分割线
-$color-link:    #0A66C2;   // 链接蓝（可按需改）
+/* ====== Design tokens ====== */
+$color-primary: #004C27;
+$color-accent:  #2E7D32;
+$color-text:    #222;
+$color-muted:   #6B7280;
+$color-bg:      #F8FAFB;
+$color-panel:   #FFFFFF;
+$color-border:  #E5E7EB;
+$color-link:    #0A66C2;
+
 $shadow-soft:   0 6px 18px rgba(0,0,0,.06);
 $shadow-subtle: 0 2px 8px rgba(0,0,0,.05);
 
-/* =========================
-   Typography（英文为主）
-   ========================= */
-/* 尽量使用系统与常见英文字体；无需额外网络字体 */
-$font-sans: "Inter", "SF Pro Text", -apple-system, system-ui, "Segoe UI",
-            Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans",
-            "Microsoft YaHei", sans-serif; // 末尾保留雅黑兜底
+$font-sans: "Inter","SF Pro Text",-apple-system,system-ui,"Segoe UI",Roboto,
+            "Helvetica Neue",Arial,"Noto Sans","Microsoft YaHei",sans-serif;
+$font-mono: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace;
 
-$font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
-
-/* 尺寸与行高（相对整站适配） */
+/* ====== Spacing & radius (CSS vars) ====== */
 :root {
   --space-1: 6px;
   --space-2: 10px;
@@ -42,19 +34,17 @@ $font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation M
   --radius-lg: 16px;
 }
 
-/* =========================
-   Base
-   ========================= */
-html { font-size: 16px; } // 方便 rem 计算
+/* ====== Base ====== */
+html { font-size: 16px; }
 
 body {
-  padding-top: 100px; // 保留你的导航占位
+  padding-top: 100px;
   background-color: $color-bg;
   color: $color-text;
   font-family: $font-sans;
-  font-size: 1rem;         // 16px
-  line-height: 1.65;       // 舒适阅读
-  letter-spacing: 0.1px;   // 细微字距
+  font-size: 1rem;
+  line-height: 1.65;
+  letter-spacing: 0.1px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -64,63 +54,53 @@ img {
   max-width: 100%;
   height: auto;
   margin: var(--space-4) 0;
-  border-radius: 6px;
+  border-radius: 10px;
 }
 
-/* 段落与标题 */
-p { margin: 0 0 var(--space-4) 0; font-size: 1rem; color: $color-text; }
+p { margin: 0 0 var(--space-4) 0; font-size: 1rem; }
 small, .text-muted { color: $color-muted; }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $font-sans;
   font-weight: 700;
-  color: #0F172A; // 深蓝灰，更有层次
+  color: #0F172A;
   line-height: 1.25;
   margin: 0 0 var(--space-4) 0;
   letter-spacing: 0.2px;
 }
-
-h1 { font-size: 2.0rem; margin-bottom: var(--space-5); }
+h1 { font-size: 2rem;   margin-bottom: var(--space-5); }
 h2 { font-size: 1.75rem; margin-top: var(--space-6); }
 h3 { font-size: 1.375rem; }
 h4 { font-size: 1.15rem; }
-h5 { font-size: 1.0rem; }
-h6 { font-size: 0.95rem; color: $color-muted; }
+h5 { font-size: 1rem; }
+h6 { font-size: .95rem; color: $color-muted; }
 
-/* 链接 */
 a {
   color: $color-link;
   text-decoration: none;
   transition: color .2s ease, opacity .2s ease;
 }
-a:hover, a:focus {
-  color: darken($color-link, 12%);
-  text-decoration: underline;
-}
+a:hover, a:focus { color: darken($color-link, 12%); text-decoration: underline; }
 
-/* 列表与代码 */
-ul, ol { padding-left: 1.25rem; margin-bottom: var(--space-4); }
 code, pre, kbd, samp {
   font-family: $font-mono;
-  font-size: 0.925rem;
+  font-size: .925rem;
   background: #F3F4F6;
   border-radius: 6px;
 }
 code { padding: 2px 6px; }
-pre { padding: var(--space-4); }
+pre  { padding: var(--space-4); }
 
-/* 容器宽度（居中且不过宽） */
+/* 容器宽度 */
 .container, .container-fluid {
   margin-right: auto;
   margin-left: auto;
-  max-width: 1060px; // 稍微放宽，论文/项目信息更舒展
+  max-width: 1060px;
   padding-left: 18px;
   padding-right: 18px;
 }
 
-/* =========================
-   Navbar（与你色系一致）
-   ========================= */
+/* ====== Navbar ====== */
 .navbar-default {
   background-color: $color-primary !important;
   border-color: $color-primary !important;
@@ -149,9 +129,7 @@ pre { padding: var(--space-4); }
   background-color: rgba(255,255,255,0.1) !important;
 }
 
-/* =========================
-   卡片 / 面板（用于成员信息、新闻等）
-   ========================= */
+/* ====== 卡片 / well ====== */
 .card {
   background: $color-panel;
   border: 1px solid $color-border;
@@ -160,16 +138,13 @@ pre { padding: var(--space-4); }
   padding: var(--space-5);
   margin-bottom: var(--space-5);
 }
-
 .card--flat {
   border: 1px solid $color-border;
   border-radius: var(--radius-sm);
   padding: var(--space-4);
 }
-
 .panel-footer { background-color: #FDFEFE !important; }
 
-/* 你的 well 样式优化 */
 .well, .wellpub {
   background: #EEF2F6 !important;
   border-color: transparent !important;
@@ -182,46 +157,29 @@ pre { padding: var(--space-4); }
   margin: 6px 0;
 }
 
-/* =========================
-   图片样式（团队、主页、相册）
-   ========================= */
+/* ====== 图片分区（与你原选择器保持一致） ====== */
 #gridid img {
   margin: 16px 22px 6px 0;
   border-radius: 10%;
   box-shadow: $shadow-soft;
 }
 #homeid img { margin: 0; border-radius: 6px; box-shadow: none; }
-#picid img  { margin: 6px 3px 60px 6px; border-radius: 6px; box-shadow: $shadow-soft; }
+#picid  img  { margin: 6px 3px 60px 6px; border-radius: 6px; box-shadow: $shadow-soft; }
 #gridid .row { margin-bottom: 24px; }
 
-/* 全站 img 默认圆角更协调 */
-img { border-radius: 10px; }
-
-/* =========================
-   Carousel（轮播图）
-   ========================= */
+/* ====== Carousel ====== */
 .carousel {
   border-radius: var(--radius-md);
   margin: var(--space-4) 0 var(--space-3);
   overflow: hidden;
   box-shadow: $shadow-soft;
-  background: #000; // 图片加载前过渡
+  background: #000;
 }
-.carousel .item img {
-  width: 100%;
-  object-fit: cover;
-}
-.carousel-indicators li {
-  background: rgba(255,255,255,0.6);
-  border: none;
-}
-.carousel-indicators .active {
-  background: #fff;
-}
+.carousel .item img { width: 100%; object-fit: cover; }
+.carousel-indicators li { background: rgba(255,255,255,0.6); border: none; }
+.carousel-indicators .active { background: #fff; }
 
-/* =========================
-   文字模块微调
-   ========================= */
+/* ====== 文案微调 ====== */
 p.byline {
   text-align: center;
   font-size: 1.125rem;
@@ -239,27 +197,75 @@ figcaption {
 #newsid p { text-align: left; }
 #homeidtmp h1 { text-align: center; }
 
-/* =========================
-   表格与列表
-   ========================= */
+/* ====== 表格 ====== */
 table {
   width: 100%;
   border-collapse: collapse;
   margin: var(--space-4) 0 var(--space-5);
-  font-size: 0.975rem;
+  font-size: .975rem;
 }
 th, td {
   border-bottom: 1px solid $color-border;
   padding: 10px 12px;
 }
-thead th {
-  font-weight: 700;
-  color: #0F172A;
+thead th { font-weight: 700; color: #0F172A; }
+tbody tr:hover { background: #F9FAFB; }
+
+/* ====== 按钮 ====== */
+.btn, .btn-primary {
+  border-radius: 999px;
+  padding: 10px 18px;
+  font-weight: 600;
+  letter-spacing: .2px;
+  transition: background .2s ease, transform .05s ease;
 }
-tbody tr:hover {
-  background: #F9FAFB;
+.btn-primary {
+  background: $color-accent;
+  border-color: $color-accent;
+}
+.btn-primary:hover {
+  background: darken($color-accent, 6%);
+  border-color: darken($color-accent, 6%);
+}
+.btn:active { transform: translateY(1px); }
+
+/* ====== 栅格左右 padding（保留你的习惯） ====== */
+.col-sm-1, .col-sm-2, .col-sm-3, .col-sm-5, .col-sm-6,
+.col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.col-sm-4 {
+  padding-left: 26px;
+  padding-right: 26px;
 }
 
-/* =========================
-   按钮（英文站简洁风）
-   ====================
+/* ====== Footer ====== */
+.footer, .site-footer {
+  color: $color-muted;
+  font-size: .95rem;
+  padding: var(--space-6) 0;
+  border-top: 1px solid $color-border;
+  margin-top: var(--space-6);
+  background: #FFFFFF;
+}
+
+/* ====== 响应式 ====== */
+@media (max-width: 992px) {
+  body { padding-top: 80px; }
+  .navbar-brand { font-size: 18px; height: 52px; }
+  h1 { font-size: 1.75rem; }
+  h2 { font-size: 1.5rem; }
+  .container, .container-fluid { max-width: 92%; }
+}
+@media (max-width: 576px) {
+  html { font-size: 15.5px; }
+  body { padding-top: 72px; }
+  .navbar-default .navbar-nav > li > a {
+    font-size: 16px !important;
+    padding-top: 14px;
+    padding-bottom: 14px;
+  }
+  .card, .card--flat { padding: var(--space-4); }
+  .carousel { margin: var(--space-3) 0; }
+}
