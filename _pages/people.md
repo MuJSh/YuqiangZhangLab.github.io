@@ -16,32 +16,38 @@ permalink: /people/
 <div class="row" style="margin-left:-30px;margin-right:-30px;">
 {% endif %}
 
-<div class="col-sm-6" style="padding-left:30px; padding-right:30px; display: flex; align-items: flex-start;">
+<!-- 每个成员卡片 -->
+<div class="col-sm-6" style="padding-left:30px; padding-right:30px; display: flex; align-items: flex-start; margin-bottom: 16px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/peopic/{{ member.photo }}" 
        class="img-responsive" width="120"
        style="margin-right: 16px; border-radius: 12px;" />
 
   <div style="max-width: calc(100% - 136px);">
-    <h4>{{ member.name }}</h4>
+    {% if member.url %}
+      <h4><a href="{{ member.url }}" target="_blank">{{ member.name }}</a></h4>
+    {% else %}
+      <h4>{{ member.name }}</h4>
+    {% endif %}
+
     {{ member.info }}<br>
 
-    {% if member.group_member == 1 %}
+    {% if member.group_member == 1 and member.email != "" %}
       <i>Email: {{ member.email }}</i><br>
     {% endif %}
 
-    {% if member.number_educ %}
+    {% if member.number_educ > 0 %}
       <p>
-        {{ member.education1 }} <br>
-        {% if member.number_educ > 1 %}{{ member.education2 }} <br>{% endif %}
-        {% if member.number_educ > 2 %}{{ member.education3 }} <br>{% endif %}
-        {% if member.number_educ > 3 %}{{ member.education4 }} <br>{% endif %}
-        {% if member.number_educ > 4 %}{{ member.education5 }} <br>{% endif %}
-        {% if member.number_educ > 5 %}{{ member.education6 }} <br>{% endif %}
-        {% if member.number_educ > 6 %}{{ member.education7 }} <br>{% endif %}
+        {{ member.education1 }}<br>
+        {% if member.number_educ > 1 %}{{ member.education2 }}<br>{% endif %}
+        {% if member.number_educ > 2 %}{{ member.education3 }}<br>{% endif %}
+        {% if member.number_educ > 3 %}{{ member.education4 }}<br>{% endif %}
+        {% if member.number_educ > 4 %}{{ member.education5 }}<br>{% endif %}
+        {% if member.number_educ > 5 %}{{ member.education6 }}<br>{% endif %}
+        {% if member.number_educ > 6 %}{{ member.education7 }}<br>{% endif %}
       </p>
     {% endif %}
 
-    {% if member.group_member == 1 %}
+    {% if member.group_member == 1 and member.statement != "" %}
       <p>{{ member.statement }}</p>
     {% endif %}
   </div>
@@ -51,7 +57,6 @@ permalink: /people/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
