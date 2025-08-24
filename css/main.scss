@@ -3,19 +3,20 @@
     
 @import "bootstrap";
 
+/* ========== 基础 ========== */
 img { 
   margin-bottom: 24px; 
   margin-top: 17px; 
-  border-radius:2%;
+  border-radius: 2%;
 }
 
 .navbar-default{
   background-color: #004C27 !important;
   border-color: #004C27 !important;
   border-bottom-width: thin;
-  margin-left:0px;
-  margin-right:0px;
-  margin-bottom:0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
 }
 
 .navbar-default .navbar-brand {
@@ -23,30 +24,30 @@ img {
 }
 
 .navbar-brand{
-  padding-top:25px !important; 
+  padding-top: 25px !important; 
   padding-left: 16px;
   font-size: 21px;
-  padding-bottom:0px !important;
+  padding-bottom: 0px !important;
   height: 45px;
   text-align: left;
 }
 
 .nav{
-  margin-bottom:-10px;
+  margin-bottom: -10px;
   padding-left: -10px;
 }
 .nav li{
-  padding-left:0px;
-  padding-top:5px;
-  padding-bottom:0px;
+  padding-left: 0px;
+  padding-top: 5px;
+  padding-bottom: 0px;
 }
 .nav a{
   color: #FDFEFE !important;
   font-size: 18px !important;
 }
 .navbar-nav > li{
-  margin-left:-15.5px;
-  margin-right:2.5px;
+  margin-left: -15.5px;
+  margin-right: 2.5px;
 }
 
 .well {
@@ -66,8 +67,10 @@ img {
   background-color: #FDFEFE !important;
 }
 
+/* ===== 字体（英文优先，中文兜底） ===== */
 body {
-  padding-top: 70px;
+  /* sticky 方案下不需要用 padding-top 垫高正文 */
+  padding-top: 0;
   background-color: #F8F9F9;
   font-family: "Inter","SF Pro Text",-apple-system,system-ui,"Segoe UI",
                Roboto,"Helvetica Neue",Arial,"Noto Sans","Microsoft YaHei",sans-serif;
@@ -78,7 +81,8 @@ body {
 
 figcaption {
   text-align: right;
-  margin-top: -20px;
+  /* 避免负 margin 把内容上拉到导航下面 */
+  margin-top: 0;
   margin-bottom: 20px;
 }
 
@@ -88,7 +92,8 @@ p.byline {
   text-align: center;
   font-size: 18px;
   line-height: 36px;
-  margin-top: -24px;
+  /* 避免负 margin 被导航覆盖 */
+  margin-top: 0;
   margin-bottom: 48px;
 }
 
@@ -122,18 +127,18 @@ firstp {
 /* Team & Publications */
 #gridid img { 
   margin: 16px 22px 6px 0; 
-  border-radius:10%; 
-  box-shadow: 2px 2px 5px #888888 
+  border-radius: 10%; 
+  box-shadow: 2px 2px 5px #888888;
 }
 #homeid img { 
   margin: 0 0 0 0; 
-  border-radius:5%; 
-  box-shadow: 0px 0px 0px #888888 
+  border-radius: 5%; 
+  box-shadow: 0px 0px 0px #888888;
 }
 #picid img { 
   margin: 6px 3px 60px 6px; 
-  border-radius:1%; 
-  box-shadow: 2px 2px 5px #888888 
+  border-radius: 1%; 
+  box-shadow: 2px 2px 5px #888888;
 }
 #gridid .row { 
   margin-bottom: 24px; 
@@ -160,3 +165,24 @@ firstp {
   margin-left: 35px;
   margin-right: 35px;
 }
+
+/* ========== 关键修复：使用 sticky 导航，不遮正文 ========== */
+/* 让 fixed-top 以粘性方式工作（保留类名，改定位） */
+.navbar-fixed-top {
+  position: sticky !important;
+  top: 0;
+  z-index: 1030;   /* 在内容上方，但不至于压住下拉菜单 */
+}
+
+/* 调小品牌区内边距，避免把导航整体撑得太高 */
+.navbar-brand{
+  padding-top: 12px !important;
+  height: 52px;
+  line-height: 20px;
+}
+
+/* 给 People 外壳一点点正向间距（可选） */
+#gridid { margin-top: 8px; }
+
+/* 如果页面有锚点跳转，避免被吸顶导航挡住标题 */
+h1, h2, h3, h4 { scroll-margin-top: 72px; }
