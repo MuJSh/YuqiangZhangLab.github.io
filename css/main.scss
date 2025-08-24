@@ -3,54 +3,56 @@
     
 @import "bootstrap";
 
-/* === Base === */
 img { 
   margin-bottom: 24px; 
   margin-top: 17px; 
-  border-radius: 2%;
+  border-radius:2%;
 }
 
 .navbar-default{
-  background-color: #004C27 !important;
-  border-color: #004C27 !important;
-  border-bottom-width: thin;
-  margin-left: 0px;
-  margin-right: 0px;
-  margin-bottom: 0px;
+background-color: #004C27 !important;
+border-color: #004C27 !important;
+border-bottom-width: thin;
+margin-left:0px;
+margin-right:0px;
+margin-bottom:0px;
 }
-.navbar-default .navbar-brand { color: #FDFEFE; }
+
+.navbar-default .navbar-brand {
+    color: #FDFEFE;
+}
 
 .navbar-brand{
-  padding-top: 25px !important; 
+  padding-top:25px !important; 
   padding-left: 16px;
   font-size: 21px;
-  padding-bottom: 0px !important;
+  padding-bottom:0px !important;
   height: 45px;
   text-align: left;
 }
 
 .nav{
-  margin-bottom: -10px;
+  margin-bottom:-10px;
   padding-left: -10px;
 }
 .nav li{
-  padding-left: 0px;
-  padding-top: 5px;
-  padding-bottom: 0px;
+  padding-left:0px;
+  padding-top:5px;
+  padding-bottom:0px;
 }
 .nav a{
   color: #FDFEFE !important;
   font-size: 18px !important;
 }
 .navbar-nav > li{
-  margin-left: -15.5px;
-  margin-right: 2.5px;
+  margin-left:-15.5px;
+  margin-right:2.5px;
 }
 
 .well {
-  margin-top: 0px;
-  background-color: #D6DBDF !important;
-  border-color: #D6DBDF !important;   
+    margin-top: 0px;
+    background-color: #D6DBDF !important;
+    border-color: #D6DBDF !important;   
 }
 .wellpub {
   height: 550px;
@@ -60,37 +62,39 @@ img {
   border-color: #D6DBDF !important;  
 }
 
-.panel-footer { background-color: #FDFEFE !important; }
+.panel-footer {
+  background-color: #FDFEFE !important;
+}
 
-/* === Typography & page === */
 body {
-  /* 让正文为 fixed 顶部导航预留空间 */
-  padding-top: 88px !important;
-  background-color: #F8F9F9;
-  font-family: "Inter","SF Pro Text",-apple-system,system-ui,"Segoe UI",
-               Roboto,"Helvetica Neue",Arial,"Noto Sans","Microsoft YaHei",sans-serif;
-  font-size: 16px;
-  line-height: 1.65;
-  color: #222;
+	padding-top: 100px;
+	background-color: #F8F9F9;
 }
 
 figcaption {
-  text-align: right;
-  margin-top: 0 !important;     /* 防止被导航覆盖 */
-  margin-bottom: 20px;
+    text-align: right;
+    margin-top: -20px;
+    margin-bottom: 20px;
 }
 
-/* Top navigation bar helpers */
+/* Top navigation bar */
+
+
 p.byline {
-  text-align: center;
-  font-size: 18px;
-  line-height: 36px;
-  margin-top: 0 !important;     /* 防止被导航覆盖 */
-  margin-bottom: 48px;
+	text-align: center;
+	font-size: 18px;
+	line-height: 36px;
+	margin-top: -24px;
+	margin-bottom: 48px;
 }
 
-pubtit { font-weight: bold; }
-firstp {}
+
+pubtit {
+	font-weight: bold;
+}
+
+firstp {
+}
 
 .container-fluid {
   margin-right: auto;
@@ -99,64 +103,46 @@ firstp {}
 }
 
 /* Home, News */
-#newsid p { text-align: left; }
-#homeidtmp h1 { text-align: center; }
-#newsid img { margin-top: 6px; margin-bottom: 6px; }
+#newsid p {
+	text-align: left;
+}
+
+#homeidtmp h1 {
+	text-align: center;
+}
+
+#newsid img {
+	margin-top: 6px;
+	margin-bottom: 6px;
+}
 
 /* Team & Publications */
-#gridid img { 
-  margin: 16px 22px 6px 0; 
-  border-radius: 10%; 
-  box-shadow: 2px 2px 5px #888888;
-}
-#homeid img { 
-  margin: 0; 
-  border-radius: 5%; 
-  box-shadow: 0 0 0 #888888;
-}
-#picid img { 
-  margin: 6px 3px 60px 6px; 
-  border-radius: 1%; 
-  box-shadow: 2px 2px 5px #888888;
-}
+#gridid img { margin: 16px 22px 6px 0; border-radius:10%; box-shadow: 2px 2px 5px #888888 }
+#homeid img { margin: 0 0 0 0; border-radius:5%; box-shadow: 0px 0px 0px #888888 }
+#picid img { margin: 6px 3px 60px 6px; border-radius:1%; box-shadow: 2px 2px 5px #888888 }
 #gridid .row { margin-bottom: 24px; }
+
 
 /* Grid overrides */
 .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-5, .col-sm-6,
 .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
-  padding-left: 16px;
-  padding-right: 16px;
+	padding-left: 16px;
+	padding-right: 16px;
 }
+
+/* Grid overrides */
 .col-sm-4 {
-  padding-left: 26px;
-  padding-right: 26px;
+	padding-left: 26px;
+	padding-right: 26px;
 }
 
-/* Carousel */
+
+/* Carusel */
+
 .carousel {
-  border-radius: 5px;
-  margin-bottom: 10px;
-  margin-top: 10px;
-  margin-left: 35px;
-  margin-right: 35px;
+    border-radius: 5px 5px 5px 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 35px;
+    margin-right: 35px;
 }
-
-/* === 关键修复：固定顶部导航 + 合理高度 === */
-.navbar-fixed-top{
-  position: fixed !important;
-  top: 0; left: 0; right: 0;
-  z-index: 1030;
-}
-
-/* 控制品牌区高度，避免把导航撑得过高 */
-.navbar-brand{
-  padding-top: 12px !important;
-  height: 56px;
-  line-height: 20px;
-}
-
-/* 轻微下移 People 外壳（可选） */
-#gridid { margin-top: 8px; }
-
-/* 锚点滚动时避免被导航挡住标题（可选） */
-h1, h2, h3, h4 { scroll-margin-top: 92px; }
