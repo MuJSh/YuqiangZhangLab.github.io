@@ -1,14 +1,28 @@
-﻿- title: "Spatial-temporal patterns of anthropogenic and biomass burning contributions on air pollution and mortality burden changes in India from 1995 to 2014"
+ - title: "Spatial-temporal patterns of anthropogenic and biomass burning contributions on air pollution and mortality burden changes in India from 1995 to 2014"
   authors: "B. Luo, <b>Y. Zhang*</b>, T. Tang, H. Zhang, J. Hu, <b>J. Mu</b>, W. Wang, and L. Xue"
-  journal: "EGUsphere [preprint]"
-  url: 
-  display: 
+  journal: "Atmospheric Chemistry and Physics"
+  url: "https://doi.org/10.5194/acp-25-4767-202"
+  display: Link
+  year: 2025
+
+ - title: "Variations in summertime ozone in Nanjing between 2015 and 2020: roles of meteorology, radical chain length and ozone production efficiency"
+  authors: "<b>L. Li</b>, J. Li, M. Qin, X. Xie, J. Hu, <b>Y. Zhang</b>"
+  journal: "Frontiers of Environmental Science & Engineering"
+  url: "https://link.springer.com/article/10.1007/s11783-024-1897-z"
+  display: Link
+  year: 2024
+  
+ - title: "Ozone Mortality Burden Changes Driven by Population Aging and Regional Inequity in China in 2013–2050"
+  authors: "X. Chen, Z. Jiang, Y. Shen, S. Wang, D. Shindell, <b>Y. Zhang*</b>"
+  journal: "GeoHealth"
+  url: "https://doi.org/10.1029/2024GH001058"
+  display: Link
   year: 2024
 
 - title: "Diagnosing ozone–NOx–VOC–aerosol sensitivity and uncovering causes of urban–nonurban discrepancies in Shandong, China, using transformer-based estimations"
   authors: "C. Tao, Y. Peng, Q. Zhang, <b>Y. Zhang</b>, B. Gong, and Q. Wang"
   journal: "Atmospheric Chemistry and Physics"
-  url: "https://doi.org/https://doi.org/10.5194/acp-24-4177-2024"
+  url: "https://doi.org/10.5194/acp-24-4177-2024"
   display: Link
   year: 2024
 
