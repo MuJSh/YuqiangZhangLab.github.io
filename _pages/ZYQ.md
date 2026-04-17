@@ -17,13 +17,9 @@ permalink: /ZYQ/
 #### <b>RESEARCH AREAS</b>  
 
 Changes in wet and dry deposition in the atmosphere
-
 Long-distance transport of pollutants
-
 The impact of the urban heat island effect on air quality
-
 Machine learning
-
 The interaction between air pollution, climate change, and human health
 
 #### <b>PROFESSIONAL EXPERIENCE</b>
@@ -90,6 +86,64 @@ One article (Silva et al., 2013) listed as <b>"Editorial Highlights in 2013"</b>
 See a full list my publications at [Google Scholar](https://scholar.google.com/citations?user=A40cvygAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0002-9161-7086), or [ResearchGate](https://www.researchgate.net/profile/Yuqiang-Zhang).
 
 <b>Corresponding author (*) | 通讯作者
+
+<b><font color=DarkOliveGreen>2026</font></b>
+
+<b>64</b> Zhang W., Hai S., Zhao Y., Liu D., Meng J., Liu X., Gao Y., <b>Zhang Y.</b>, Yang L., Law K., and Sheng L.: Regional source attribution of tropospheric ozone to NOx and volatile organic compounds in the Beijing-Tianjin-Hebei region using the WRF-Chem model, <u><em>Environ. Pollut.</em></u>, 397, 127914, https://doi.org/10.1016/j.envpol.2026.127914, 2026.
+
+<b>63</b> Han Z., <b>Zhang Y.*</b>, Liu Z., Zhang K., Tasheh S. N., Tsona N. T., Wang Z., Luo B., Xue L., and Wang X.: Evaluating the effects of COVID-19 lockdowns on air quality across some African countries, <u><em>Environ. Sci.: Atmos.</em></u>, https://doi.org/10.1039/d5ea00111k, 2026.
+
+<b>62</b> Fan F., Tao C., <b>Zhang Y.</b>, Shindell D., and Zhang H.: Climate-driven changes in wildfire seasonality across North America, <u><em>Geophys. Res. Lett.</em></u>, https://doi.org/10.1029/2025GL121153, 2026.
+
+<b>61</b> Zhao B., Wang X., Wang Y., Sun Y., Gao D., Ge Q., Gao Y., Zhang J., <b>Zhang Y.</b>, Shindell D., Davis S. J., Lin G., Wang Y., Chu B., Jiang Z., He H., He K., Hao J., and Wang S.: Air quality improvement masks global cooling from CO<sub>2</sub> reductions under China’s carbon neutrality policies for half a century, <u><em>Nat. Commun.</em></u>, 17, https://doi.org/10.1038/s41467-026-68586-y, 2026.
+
+<b>60</b> Ji X., Liu Z., Mu J., Han Z., Wang Z., Zhu Y., Li K., Li Q., Shindell D., and <b>Zhang Y.*</b>: Boosting solar efficiency: the unforeseen benefit of China’s clean air action plan, <u><em>Environ. Res. Lett.</em></u>, 21, 014012, https://doi.org/10.1088/1748-9326/ae2e16, 2026.
+
+<b>59</b> Xie Y., Wu Y., Zhao M., Xu M., Liu X., Li J., Ma X., Ma T., Pan Y., Pu J., Gou F., Fujimori S., Liu Z., <b>Zhang Y.</b>, and Chen B.: Accelerated attainment of global air quality standards with disproportional health co-benefits under the 1.5 °C target, <u><em>Nat. Commun.</em></u>, 17, https://doi.org/10.1038/s41467-025-67276-5, 2026.
+
+<b><font color=DarkOliveGreen>2025</font></b>
+
+<b>58</b> Zhao M., Shen H., Zhang G., Li L., Zhu Y., Meng H., Zhao B., Liu Y., Zhong X., Gao Y., Guo Y., Sun Y., Gao Z., <b>Zhang Y.</b>, Hou K., Yao X., Wang T., Mu Y., Zhang C., Wang W., and Xue L.: Underestimated formaldehyde emissions from residential coal combustion in rural China, <u><em>Environ. Sci. Technol.</em></u>, 59, 27508–27516, https://doi.org/10.1021/acs.est.5c09564, 2025.
+
+<b>57</b> Tao C., <b>Zhang Y.</b>, Shindell D., and Zhang H.: Inequality in air pollution-attributable mortality by income level between and within countries, <u><em>Proc. Natl. Acad. Sci. U.S.A.</em></u>, 122, e2511394122, https://doi.org/10.1073/pnas.2511394122, 2025.
+
+<b>56</b> Dong C., Wang X., Gao R., Guo Y., <b>Zhang Y.*</b>, Shindell D., Wang W., and Xue L.: China’s clean air actions have reduced rural-urban and geographic disparities in air pollution exposure, <u><em>Environ. Sci. Technol. Air</em></u>, https://doi.org/10.1021/acsestair.5c00067
+, 2025.
+
+<b>55</b> Shan Y., ..... Mu J., ... <b>Zhang Y.</b>, ...: Observations of polycyclic aromatic hydrocarbons at Changbai Mountain in Northeast Asia: Characteristics, transboundary transport, and health impacts, <u><em>J. Environ. Sci.</em></u>, https://doi.org/10.1016/j.jes.2025.06.020, 2025.
+
+<b>54</b> Shan Y., Zhu Y., Sui H., Zhao N., Li H., Wen L., Chen T., Qi Y., Qi W., Wang X., <b>Zhang Y.</b>, Xue L., and Wang W.: Vertical distribution and regional transport of air pollution over Northeast China: Insights from an intensive aircraft study, <u><em>Atmos. Environ.</em></u>, 358, 121327, https://doi.org/10.1016/j.atmosenv.2025.121327, 2025.
+
+<b>53</b> Lu X., Liu Y., Su J., Weng X., Ansari T., <b>Zhang Y.</b>, He G., Zhu Y., Wang H., Zeng G., Li J., He C., Li S., Amnuaylojaroen T., Butler T., Fan Q., Fan S., Forster G. L., Gao M., Hu J., Kanaya Y., Latif M. T., Lu K., Nédélec P., Nowack P., Sauvage B., Xu X., Zhang L., Li K., Koo J.-H., and Nagashima T.: Tropospheric ozone trends and attributions over East and Southeast Asia in 1995–2019: an integrated assessment using statistical methods, machine learning models, and multiple chemical transport models, <u><em>Atmos. Chem. Phys.</em></u>, 25, 7991–8028, https://doi.org/10.5194/acp-25-7991-2025, 2025.
+
+<b>52</b> Gao Z., Li L., Liu Z., Mu J., Wang Z., Luo B., Zhang J., Tang S., Zhang H., Hu J., Wang X., Zhou X., and <b>Zhang Y.*</b>: Impact of marine chlorine emissions on secondary organic aerosols in North China Plain, <u><em>Environ. Pollut.</em></u>, 381, 126524, https://doi.org/10.1016/j.envpol.2025.126524, 2025.
+
+<b>51</b> Luo B., <b>Zhang Y.*</b>, Tang T., Zhang H., Hu J., Mu J., Wang W., and Xue L.: Spatial-temporal patterns in anthropogenic and biomass burning emission contributions to air pollution and mortality burden changes in India from 1995 to 2014, <u><em>Atmos. Chem. Phys.</em></u>, 25, 4767–4783, https://doi.org/10.5194/acp-25-4767-2025, 2025.
+
+<b>50</b> Zhao N., <b>Zhang Y.*</b>, and Xue L.: Nonlinear relationship between air pollution and precursor emissions in Qingdao, eastern China, <u><em>Front. Environ. Sci. Eng.</em></u>, 19, 1–12, https://doi.org/10.1007/s11783-025-1929-3, 2025.
+
+<b><font color=DarkOliveGreen>2024</font></b>
+
+<b>49</b> Tao C., <b>Zhang Y.</b>, Zhang X., Guan X., Peng Y., Wang G., Zhang Q., Ren Y., Zhao X., Zhao R., Wang Q., and Wang W.: Discrepant global surface ozone responses to emission- and heatwave-induced regime shifts, <u><em>Environ. Sci. Technol.</em></u>, https://doi.org/10.1021/acs.est.4c08422, 2024.
+
+<b>48</b> Chen G., Qiu M., Wang P., <b>Zhang Y.</b>, Shindell D., and Zhang H.: Continuous wildfires threaten public and ecosystem health under climate change across continents, <u><em>Front. Environ. Sci. Eng.</em></u>, 18, https://doi.org/10.1007/s11783-024-1890-6, 2024.
+
+<b>47</b> Zhao M., Xie Y., Xu M., Weng Z., Hanaoka T., <b>Zhang Y.*</b>, and Tong D.: Optimizing air quality and health co-benefits of mitigation technologies in China: An integrated assessment, <u><em>Environ. Sci. Ecotechnol.</em></u>, 22, 100454, https://doi.org/10.1016/j.ese.2024.100454
+, 2024.
+
+<b>46</b> Li L., Li J., Qin M., Xie X., Hu J., and <b>Zhang Y.</b>: Variations in summertime ozone in Nanjing between 2015 and 2020: roles of meteorology, radical chain length and ozone production efficiency, <u><em>Front. Environ. Sci. Eng.</em></u>, 18, https://doi.org/10.1007/s11783-024-1897-z, 2024.
+
+<b>45</b> Chen X., Jiang Z., Shen Y., Wang S., Shindell D., and <b>Zhang Y.*</b>: Ozone mortality burden changes driven by population aging and regional inequity in China in 2013–2050, <u><em>GeoHealth</em></u>, 8, https://doi.org/10.1029/2024GH001058, 2024.
+
+<b>44</b> Tao C., Peng Y., Zhang Q., <b>Zhang Y.</b>, Gong B., and Wang Q.: Diagnosing ozone-NOx-VOC-aerosol sensitivity and uncovering causes of urban-nonurban discrepancies in Shandong, China, using transformer-based estimations, <u><em>Atmos. Chem. Phys.</em></u>, 24, 4177–4192, https://doi.org/10.5194/acp-24-4177-2024, 2024.
+
+<b>43</b> Shan Y., Zhu Y., Qi Y., Yang Y., Mu J., Liu M., Li H., Zhang J., Nie Y., Liu Y., Zhao M., Zhang X., Zhang L., Wang Y., Li H., Shen H., <b>Zhang Y.</b>, Wang X., Huang L., Wang W., and Xue L.: Insights into atmospheric trace gases, aerosols, and transport processes at a high-altitude station (2623 m a.s.l.) in Northeast Asia, <u><em>Atmos. Environ.</em></u>, 326, https://doi.org/10.1016/j.atmosenv.2024.120482, 2024.
+
+<b>42</b> Shindell D. T., Faluvegi G., Nagamoto E., Parsons L. A., and <b>Zhang Y.</b>: Reductions in premature deaths from heat and particulate matter air pollution in South Asia, China, and the United States under decarbonization, <u><em>Proc. Natl. Acad. Sci.</em></u>, 121, https://doi.org/10.1073/pnas.2312832120, 2024.
+
+<b>41</b> Liu Z., Guo F., <b>Zhang Y.</b>, Wu Z., Lu X., Deng J., et al.: Impact of lightning-induced nitrogen oxides over and around the Tibetan Plateau on the Tibetan Plateau ozone valley, <u><em>J. Geophys. Res.: Atmos.</em></u>, 129, e2023JD039575, https://doi.org/10.1029/2023JD039575, 2024.
+
+<b>40</b> Tao C., Jia M., Wang G., <b>Zhang Y.</b>, Zhang Q., Wang X., Wang Q., and Wang W.: Time-sensitive prediction of NO<sub>2</sub> concentration in China using an ensemble machine learning model from multi-source data, <u><em>J. Environ. Sci.</em></u>, 137, 30–40, https://doi.org/10.1016/j.jes.2023.02.026, 2024.
 
 <b><font color=DarkOliveGreen>2023</font></b>
 
