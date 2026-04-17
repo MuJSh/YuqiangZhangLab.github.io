@@ -16,10 +16,11 @@ permalink: /ZYQ/
 
 #### <b>RESEARCH AREAS</b>  
 
-Atmospheric Chemistry  
-Machine Learning  
-Data Science  
-Interactions between climate change, air pollution and human health
+Changes in wet and dry deposition in the atmosphere
+Long-distance transport of pollutants
+The impact of the urban heat island effect on air quality
+Machine learning
+The interaction between air pollution, climate change, and human health
 
 #### <b>PROFESSIONAL EXPERIENCE</b>
 
@@ -82,11 +83,15 @@ One article (Silva et al., 2013) listed as <b>"Editorial Highlights in 2013"</b>
 
 #### <b>PUBLICATIONS | 发表论文</b>
 
-See a full list my publications at [Google Scholar](https://scholar.google.com/citations?user=cJCsQjoAAAAJ&hl), [ORCID](https://orcid.org/0000-0002-3919-3095), or [ResearchGate](https://www.researchgate.net/profile/Lei-Zhu-90).
+See a full list my publications at [Google Scholar](https://scholar.google.com/citations?user=A40cvygAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0002-9161-7086), or [ResearchGate](https://www.researchgate.net/profile/Yuqiang-Zhang).
 
 <b>Corresponding author (*) | 通讯作者
 
 <b><font color=DarkOliveGreen>2023</font></b>
+
+<b>39</b> Chen X., Wang M., He T., Jiang Z., <b>Zhang Y.</b>, Zhou L., Liu J., Liao H., Worden H., Jones D., Chen D., and Tan Q.: Data- and model-based urban O<sub>3</sub> responses to NOx changes in China and the United States, <u><em>J. Geophys. Res.: Atmos.</em></u>, 128, https://doi.org/10.1029/2022JD038228, 2023.
+
+<b>38</b> Zhu Y., He C., Bell M., <b>Zhang Y.</b>, Fatmi Z., Zhang Y., Zaid M., Bachwenkizi J., Liu C., Zhou L., Chen R., and Kan H.: Association of ambient temperature with the prevalence of intimate partner violence among partnered women in low- and middle-income South Asian countries, <u><em>JAMA Psychiatry</em></u>, 1–10, https://doi.org/10.1001/jamapsychiatry.2023.1958, 2023.
 
 <b>37</b> Long Y., Wu Y., Xie Y., Huang L., Wang W., Liu X., Zhou Z., <b>Zhang Y.</b>, Hanaoka T., Ju Y., Li Y., and Chen B.: PM2.5 and ozone pollution-related health challenges in Japan with regards to climate change, <u><em>Glob. Environ. Chang.</em></u>, 79, 102640, https://doi.org/10.1016/j.gloenvcha.2023.102640, 2023
 
