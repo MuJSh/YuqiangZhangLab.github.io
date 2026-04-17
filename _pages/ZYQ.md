@@ -17,9 +17,13 @@ permalink: /ZYQ/
 #### <b>RESEARCH AREAS</b>  
 
 Changes in wet and dry deposition in the atmosphere
+
 Long-distance transport of pollutants
+
 The impact of the urban heat island effect on air quality
+
 Machine learning
+
 The interaction between air pollution, climate change, and human health
 
 #### <b>PROFESSIONAL EXPERIENCE</b>
