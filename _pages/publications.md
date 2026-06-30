@@ -1,20 +1,24 @@
 ---
-title: "Publications | 论文"
+title: "Publications"
 layout: gridlay
 excerpt: "Publications"
 sitemap: false
 permalink: /publications/
 ---
 
-<p></p>
+## Publications
 
-(<b>XYZ-CHANGE members in bold</b>;<b>*</b> Yuqiang Zhang as the Corresponding Author)
+Selected and recent publications are listed below. Group members are highlighted in bold where available in the publication database.
 
-<p></p>
-
+{% assign current_year = "" %}
 {% for publication in site.data.publications %}
+{% assign pub_year = publication.year | append: "" %}
+{% if pub_year != current_year %}
+{% assign current_year = pub_year %}
 
-{{ publication.authors }}: <b>{{ publication.title }}</b>, <u><em>{{  publication.journal }}</em></u>, {{ publication.year }}. <a href="{{ publication.url }}">{{ publication.display }}</a>
-<br /> 
+### {{ current_year }}
+{% endif %}
+
+{{ publication.authors }}. **{{ publication.title }}**. *{{ publication.journal }}*, {{ publication.year }}. {% if publication.url and publication.url != "" %}[{{ publication.display }}]({{ publication.url }}){% endif %}
 
 {% endfor %}
