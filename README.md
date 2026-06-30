@@ -1,3 +1,3 @@
 # Superseded draft
 
-This branch has been superseded by a fresh template-based rebuild request.
+This branch is superseded. A fresh template-based rebuild should be created separately.
