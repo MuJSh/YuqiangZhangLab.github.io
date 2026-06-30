@@ -1,5 +1,23 @@
-# Climate Health and Air quality for Next GEneration (CHANGE) Group Website
+# Yuqiang Zhang Lab Website
 
-This is the website of our academic research group at Shandong University. The website is made with the template from http://www.allanlab.org, and powered by Jekyll. Please feel free to clone the repository and customize it to make your own research website.
+This repository contains the academic group website for the Yuqiang Zhang Lab at Shandong University.
 
-Copyright (2019-present) Climate Health and Air quality for Next GEneration (CHANGE) Group @ SDU. Code released under the MIT License.
+## Main pages
+
+- Home
+- Group Members
+- Publications
+- News
+- Conferences
+- Openings
+
+## Editing guide
+
+- Update group members in `_data/people.yml` and `_data/alumni.yml`.
+- Update publications in `_data/publications.yml`.
+- Update news in `_data/news.yml`.
+- Update conferences in `_data/conferences.yml`.
+- Update group meeting schedules in `_data/group_meetings.yml`.
+- Update opening information in `_pages/openings.md`.
+
+The website is built with Jekyll and deployed through GitHub Pages.
