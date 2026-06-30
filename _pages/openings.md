@@ -1,56 +1,33 @@
 ---
-title: "Openings | 加入我们"
+title: "Openings"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
 permalink: /openings/
 ---
 
-<div class="row">
-<div class="col-sm-6 clearfix">
+## Openings
 
-#### <b>Postdocs</b>
-
-We seek postdocs with expertise in Atmospheric Chemistry Modeling and/or Remote Sensing and/or Machine Learning.
-<!-- For more details, please check [the post]({{ site.url }}{{ site.baseurl }}/downloads/Postdoc.pdf). -->
-
-</div>
-
-<div class="col-sm-6 clearfix">
-
-#### <b>博士后</b>
-
-研究组目前招聘有大气化学模式或遥感或机器学习背景的博士后。  
-<!--更多细节，请参见[招聘广告]({{ site.url }}{{ site.baseurl }}/downloads/Postdoc.pdf)。  -->
-
-</div>
-</div>
+The group welcomes students and researchers interested in atmospheric chemistry, air quality, climate-health interactions, satellite remote sensing, chemical transport modeling, and machine learning for environmental applications.
 
 <div class="row">
 <div class="col-sm-6 clearfix">
 
-#### <b>PhD and Master students</b>
+### Postdoctoral Researchers
 
-We recruit 1-3 PhD students and 1-2 Master students each year. 
-If you are interested in working with us, please send us an [email]({{ site.url }}{{ site.baseurl }}/contact/).  
-In the email, please  
-(1) state briefly why you are interested in us,  
-(2) attach a CV,  
-(3) attach your Master (if any) and Undergraduate transcripts,  
-(4) provide contact information of 1-2 references.
+We seek postdoctoral researchers with backgrounds in atmospheric chemistry modeling, air pollution exposure assessment, remote sensing, health-impact assessment, or machine learning.
+
+Relevant experience may include CAM-Chem, GEOS-Chem, CMAQ, WRF-CMAQ, satellite retrievals, large-scale environmental datasets, or statistical and machine-learning methods.
 
 </div>
 
 <div class="col-sm-6 clearfix">
 
-#### <b>博士与硕士研究生</b>
+### 博士后
 
-研究组每年招收1至3名博士研究生和1至2名硕士研究生。如果您有志加入我们，请[邮件联系]({{ site.url }}{{ site.baseurl }}/contact/)。  
-在邮件里，请您  
-（1）简要说明您为何对我们感兴趣；  
-（2）附上个人简历；  
-（3）附上硕士（如果有）及本科阶段成绩单;  
-（4）提供1至2名推荐人的联系方式。
+课题组欢迎具有大气化学模式、空气污染暴露评估、遥感、健康效应评估或机器学习背景的博士后加入。
+
+相关研究经验可包括 CAM-Chem、GEOS-Chem、CMAQ、WRF-CMAQ、卫星反演、大尺度环境数据分析、统计建模与机器学习方法等。
 
 </div>
 </div>
@@ -58,17 +35,49 @@ In the email, please
 <div class="row">
 <div class="col-sm-6 clearfix">
 
-#### <b>Undergraduate students</b>
+### PhD and Master Students
 
-We welcome undergraduates at SDU to participate in our research.
-If you are interested, please [contact us]({{ site.url }}{{ site.baseurl }}/contact/).
+The group recruits PhD and Master students each year. Prospective students are encouraged to contact the group by email with:
+
+1. a brief statement of research interests;
+2. a CV;
+3. undergraduate and graduate transcripts, if available;
+4. contact information for one or two references, if available.
 
 </div>
 
 <div class="col-sm-6 clearfix">
-#### <b>本科生</b>
-欢迎山东大学本科生参与我们的研究。  
-若有兴趣请[联系我们]({{ site.url }}{{ site.baseurl }}/contact/)。
+
+### 博士与硕士研究生
+
+课题组每年招收博士和硕士研究生。申请者可通过邮件联系，并建议附上：
+
+1. 简要研究兴趣说明；
+2. 个人简历；
+3. 本科及研究生阶段成绩单，如适用；
+4. 一至两位推荐人的联系方式，如适用。
 
 </div>
 </div>
+
+<div class="row">
+<div class="col-sm-6 clearfix">
+
+### Undergraduate Students
+
+Undergraduate students at Shandong University who are interested in air pollution, climate change, environmental health, or environmental data science are welcome to participate in research projects.
+
+</div>
+
+<div class="col-sm-6 clearfix">
+
+### 本科生
+
+欢迎对空气污染、气候变化、环境健康或环境数据科学感兴趣的山东大学本科生参与课题组研究。
+
+</div>
+</div>
+
+## Contact
+
+Please contact Prof. Yuqiang Zhang at [Yuqiang.Zhang@sdu.edu.cn](mailto:Yuqiang.Zhang@sdu.edu.cn).
